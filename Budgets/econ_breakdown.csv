@@ -1,0 +1,64 @@
+ec_div_id,ec_div_name_english,ec_group_id,ec_group_name_english,ec_class_id,ec_class_name_english
+0,unclassified,0,unclassified,0,Unclassified
+4,current expenditures,41,Compensation of employees,411,"Salaries, allowances, and compensation of employees (wages)"
+5,Expenditures related to non-financial assets,42,Use of goods and services,412,Social contributions paid by the employer
+6,Expenditures for principals and the acquisition of financial assets,43,depreciation and use of the funds for work,413,Compensation in kind
+,,44,Interest paid and the accompanying costs of borrowing,414,Social benefits for employees
+,,45,subsidies,415,Reimbursement of costs to employees
+,,46,"Donations, grants and transfers",416,Awards to employees and other special expenditures
+,,47,Social security and social protection,417,Alderman bonus
+,,48,Other expenses,418,Judicial Bonus
+,,49,Administrative transfers from the budget from direct budget users to indirect budget users or between users of the budget at the same level and reserve funds,421,Standing expenses
+,,51,Fixed assets,422,Cost of travel
+,,52,Inventories,423,Contract services
+,,53,Valuables,424,specialized services
+,,54,Nonproduced Assets,425,Ongoing repairs and maintenance
+,,55,Non-financial assets that are financed from the funds for the realization of the National Investment Plan,426,Material
+,,61,Repayment of principal,431,Depreciation of property and equipment
+,,62,Purchase of financial assets,432,Depreciation cultivated assets
+,,,,434,The use of nonproduced assets
+,,,,435,Deprecation of intangible assets
+,,,,441,Repayment of domestic interest
+,,,,442,Repayment of foreign interest
+,,,,443,Interest paid on guarantees
+,,,,444,Accompanying costs of borrowing
+,,,,451,Subsidies to public non-financial enterprises and organizations
+,,,,452,Subsidies to private financial institutions
+,,,,453,Subsidies to public financial institutions
+,,,,454,Subsidies to private enterprises
+,,,,461,Grants to foreign governments
+,,,,462,Donations and grants to international organizations
+,,,,463,Transfers to other levels of government
+,,,,464,Grants to organizations of compulsory social insurance
+,,,,465,"Other donations, grants and transfers"
+,,,,471,Rights of social insurance (mandatory social security organizations)
+,,,,472,Fees for social protection from the budget
+,,,,481,Grants to NGOs
+,,,,482,"Taxes, mandatory fees, fines and penalties"
+,,,,483,Fines and penalties determined by courts
+,,,,484,Compensation for injury or damage resulting from natural disasters or other natural causes
+,,,,485,Compensation for injury or damage caused by state bodies
+,,,,489,Expenditures financed from funds for the realization of the National Investment Plan
+,,,,494,Recurrent Expenditure
+,,,,495,Acquisition of non-financial assets
+,,,,496,Repayment of principals and the acquisition of financial assets
+,,,,499,reserve funds
+,,,,511,Buildings and facilities construction
+,,,,512,Machines and equipment
+,,,,513,Other property and equipment
+,,,,514,cultivated assets
+,,,,515,Intangible fixed assets
+,,,,521,Strategic stocks
+,,,,522,Materials and supplies & works in progress
+,,,,523,Finished goods
+,,,,540,Nonproduced Assets
+,,,,541,Land
+,,,,543,Forest and water
+,,,,551,Non-financial assets that are financed from the funds for the realization of the National Investment Plan
+,,,,611,Repayment of principal to domestic creditors
+,,,,612,Repayment of principal to foreign creditors
+,,,,613,Repayment of principal to foreign creditors
+,,,,614,Repayment of principal for leasing finanjski
+,,,,621,Acquisition of domestic financial assets
+,,,,622,Acquisition of foreign financial assets
+,,,,623,Purchase of financial assets that are financed from funds for the realization of the National Investment Plan

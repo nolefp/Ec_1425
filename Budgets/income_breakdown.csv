@@ -1,0 +1,37 @@
+l2,l2_name,l2_name_english,l3,l3_name,l3_name_english,l4,l4_name,l4_name_english,l6,l6_name,l6_name_english
+5001,TEKUCI PRIHODI I PRIMANjA OD PRODAJE NEFINANSIJSKE IMOVINE (5002 + 5104),Current income and income from sale of non-financial assets,5002,TEKUCI PRIHODI (5003 + 5047 + 5057 + 5067 + 5092 + 5097 + 5101),Current income,5003,POREZI (5004 + 5008 + 5010 + 5017 + 5023 + 5030 + 5033 + 5040),Taxes,5004,"POREZ NA DOHODAK, DOBIT I KAPITALNE DOBITKE (od 5005 do 5007)","Taxes on income, profits and capital gains "
+5129,PRIMANjA OD ZADUZIVANjA I PRODAJE FINANSIJSKE IMOVINE (5130 + 5149),Revenue from debt and sale of financial assets,5104,PRIMANjA OD PRODAJE NEFINANSIJSKE IMOVINE (5105 + 5112 + 5119 + 5122),Income from the sale of non-financial assets,5047,SOCIJALNI DOPRINOSI (5048 + 5053),Social contributions,5008,POREZ NA FOND ZARADA (5009),Taxes on payroll and workforce
+,,,5130,PRIMANjA OD ZADUZIVANjA (5131 + 5141),Income from borrowing,5057,DONACIJE I TRANSFERI (5058 + 5061 + 5064),Donations and transfers,5010,POREZ NA IMOVINU (od 5011 do 5016),Taxes on property
+,,,5149,PRIMANjA OD PRODAJE FINANSIJSKE IMOVINE (5150 + 5160),Income from the sale of financial assets,5067,DRUGI PRIHODI (5068 + 5075 + 5080 + 5087 + 5090),Other income,5017,POREZ NA DOBRA I USLUGE (od 5018 do 5022),Taxes on goods and services
+,,,,,,5092,MEMORANDUMSKE STAVKE ZA REFUNDACIJU RASHODA (5093 + 5095),Memorandum items for the refunding of expenditures,5023,POREZ NA MEDJUNARODNU TRGOVINU I TRANSAKCIJE (od 5024 do 5029),Taxes on international trade and transactions
+,,,,,,5097,TRANSFERI IZMEDJU BUDZETSKIH KORISNIKA NA ISTOM NIVOU (5098),Transfers between budget users of the same level,5030,DRUGI POREZI (5031 + 5032),Other taxes
+,,,,,,5101,PRIHODI IZ BUDZETA (5102),Income from the budget,5033,AKCIZE (od 5034 do 5039),Excises
+,,,,,,5105,PRIMANjA OD PRODAJE OSNOVNIH SREDSTAVA (5106 + 5108 + 5110),Income from the sale of fixed assets,5040,JEDNOKRATNI POREZ NA EKSTRA PROFIT I EKSTRA IMOVINU STECENU KORISCENjEM POSEBNIH POGODNOSTI (od 5041do 5046),Single tax on exra profit and extra assets acquired using special benefits
+,,,,,,5112,PRIMANjA OD PRODAJE ZALIHA (5113 + 5115 + 5117),Income from the sale of inventory,5048,DOPRINOSI ZA SOCIJALNO OSIGURANjE (od 5049 do 5052),Social security contributions
+,,,,,,5119,PRIMANjA OD PRODAJE DRAGOCENOSTI (5120),Income from the sale of valuables,5053,OSTALI SOCIJALNI DOPRINOSI (od 5054 do 5056),Other social contributions
+,,,,,,5122,PRIMANjA OD PRODAJE PRIRODNE IMOVINE (5123 + 5125 + 5127),Income from the sale of nonproduced assets,5058,DONACIJE OD INOSTRANIH DRZAVA (5059 + 5060),Donations from foreign governments
+,,,,,,5131,PRIMANjA OD DOMACIH ZADUZIVANjA (od 5132 do 5140),Income from domestic borrowing,5061,DONACIJE OD MEDJUNARODNIH ORGANIZACIJA (5062 + 5063),Donations from international organizations
+,,,,,,5141,PRIMANjA OD INOSTRANOG ZADUZIVANjA (od 5142 do 5148),Income from foreign borrowing,5064,TRANSFERI OD DRUGIH NIVOA VLASTI (5065 + 5066),Transfers from other level of government
+,,,,,,5150,PRIMANjA OD PRODAJE DOMACE FINANSIJSKE IMOVINE (od 5151 do 5159) ,Income from the sale of domestic financial assets,5068,PRIHODI OD IMOVINE (od 5069 do 5074),Property income
+,,,,,,5160,PRIMANjA OD PRODAJE STRANE FINANSIJSKE IMOVINE (od 5161 do 5168),Income from the sale of foreign financial assets,5075,PRIHODI OD PRODAJE DOBARA I USLUGA (od 5076 do 5079),Sales of goods and services
+,,,,,,,,,5080,NOVCANE KAZNE I ODUZETA IMOVINSKA KORIST (od 5081 do 5086),"Fines, penalties and forfeits"
+,,,,,,,,,5087,DOBROVOLjNI TRANSFERI OD FIZICKIH I PRAVNIH LICA (5088 + 5089),Voluntary transfers other than grants
+,,,,,,,,,5090,MESOVITI I NEODREDJENI PRIHODI (5091),Mixed and indefinite income
+,,,,,,,,,5093,MEMORANDUMSKE STAVKE ZA REFUNDACIJU RASHODA (5094),Memorandum items for expenditures refund 
+,,,,,,,,,5095,MEMORANDUMSKE STAVKE ZA REFUNDACIJU RASHODA IZ PRETHODNE GODINE (5096),Memorandum items for expenditures refund from the previous year
+,,,,,,,,,5098,TRANSFERI IZMEDJU BUDZETSKIH KORISNIKA NA ISTOM NIVOU (5099 + 5100),Transfers between budget users at the same level
+,,,,,,,,,5102,PRIHODI IZ BUDZETA (5103),Revenue from the budget
+,,,,,,,,,5106,PRIMANjA OD PRODAJE NEPOKRETNOSTI (5107),proceeds from the real estate sales
+,,,,,,,,,5108,PRIMANjA OD PRODAJE POKRETNE IMOVINE (5109),Income from sale of movable property
+,,,,,,,,,5110,PRIMANjA OD PRODAJE OSTALIH OSNOVNIH SREDSTAVA (5111), sale of other fixed assets 
+,,,,,,,,,5113,PRIMANjA OD PRODAJE ROBNIH REZERVI (5114), sale of stockpiles
+,,,,,,,,,5115,PRIMANjA OD PRODAJE ZALIHA  PROIZVODNjE (5116), sale of inventories
+,,,,,,,,,5117,PRIMANjA OD PRODAJE ROBE ZA DALjU PRODAJU (5118), sale of goods for resale
+,,,,,,,,,5120,PRIMANjA OD PRODAJE DRAGOCENOSTI (5121), sale of valuables
+,,,,,,,,,5123,PRIMANjA OD PRODAJE ZEMLjISTA (5124), sale of land
+,,,,,,,,,5125,PRIMANjA OD PRODAJE PODZEMNIH BLAGA (5126), sale underground valuables
+,,,,,,,,,5127,PRIMANjA OD PRODAJE SUMA I VODA (5128), sale forest and water
+,,,,,,,,,5131,PRIMANjA OD DOMACIH ZADUZIVANjA (od 5132 do 5140), domestic borrowing
+,,,,,,,,,5141,PRIMANjA OD INOSTRANOG ZADUZIVANjA (od 5142 do 5148), foreign borrowing
+,,,,,,,,,5150,PRIMANjA OD PRODAJE DOMACE FINANSIJSKE IMOVINE (od 5151 do 5159) , sale of domestic financial assets
+,,,,,,,,,5160,PRIMANjA OD PRODAJE STRANE FINANSIJSKE IMOVINE (od 5161 do 5168), sale of foreign financial assets

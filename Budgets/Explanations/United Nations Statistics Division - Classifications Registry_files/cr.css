@@ -1,0 +1,111 @@
+body {background-color:#fff;}
+.nav {font-family:verdana,geneva,san-serif;font-size:10px;font-weight:bold; color:#666;}
+.nav1 {font-family:verdana,geneva,san-serif;font-size:10px; color:#000;}
+.nav2 {font-family:verdana,geneva,san-serif;font-size:11px;background-color:#69c;color:#000;font-color:#000;font-weight:bold;}
+.nav2x {font-family:verdana,geneva,san-serif;font-size:11px;background-color:#fc0;color:#000;font-color:#000;font-weight:bold;}
+.nav3 {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fc0;color:#000;font-color:#000;}
+.nav4 {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fff;color:#000;font-color:#000;}
+.navX {background-color:#333;}
+.search {font-family:verdana,geneva,san-serif;font-size:10px; width:80px;height:20px;color:#666;}
+.search2 {font-family:verdana,geneva,san-serif;font-size:10px;color:#000;}
+.search3 {font-family:verdana,geneva,san-serif;font-size:10px;color:#000;width:110px;height:20px;}
+.searchgo {font-family:verdana,geneva,san-serif;font-size:9px; width:30px;height:20px;}
+.bar1 {background-color:#69c;}
+.bar2 {background-color:#999;}
+.bar3 {background-color:#ccc;}
+.bar4 {background-color:#000;}
+.lbar {background-color:#ccc;}
+.lbar2 {background-color:#999;}
+.footernav{font-family:verdana,geneva,san-serif;font-size:10px;background-color:#999;color:#fff;font-color:#fff;}
+.footernav2{font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fff;color:#000;font-color:#000;}
+
+a:link {text-decoration:underline; color:#666;}
+a:active {text-decoration:none; color:#000;}
+a:visited {text-decoration:underline; color:#666;}
+a:hover {text-decoration:underline; color:#000;}
+
+
+a.tnav:link {text-decoration:none; color:#666;}
+a.tnav:active {text-decoration:none; color:#666;}
+a.tnav:visited {text-decoration:none; color:#666;}
+a.tnav:hover {text-decoration:underline; color:#666;}
+
+a.tnav2:link {text-decoration:none; color:#000;}
+a.tnav2:active {text-decoration:none; color:#000;}
+a.tnav2:visited {text-decoration:none; color:#333;}
+a.tnav2:hover {text-decoration:underline; color:#000;}
+
+a.lnav:link {text-decoration:none; color:#666;}
+a.lnav:active {text-decoration:none; color:#000;}
+a.lnav:visited {text-decoration:none; color:#666;}
+a.lnav:hover {text-decoration:underline; color:#000;}
+
+a.bnav:link {text-decoration:none; color:#fff;}
+a.bnav:active {text-decoration:none; color:#fff;}
+a.bnav:visited {text-decoration:none; color:#ddd;}
+a.bnav:hover {text-decoration:underline; color:#fff;}
+
+a.inbody:link {text-decoration:none; color:#000;}
+a.inbody:active {text-decoration:none; color:#000;}
+a.inbody:visited {text-decoration:none; color:#000;}
+a.inbody:hover {text-decoration:underline; color:#000;}
+
+
+a.navgo:link {text-decoration:none; color:#333;}
+a.navgo:active {text-decoration:none; color:#333;}
+a.navgo:visited {text-decoration:none; color:#333;}
+a.navgo:hover {text-decoration:none; color:#999;}
+hr {color:#ccc;height:1px; margin-height:2px;}
+
+
+.cheader {font-family:verdana,geneva,san-serif;font-size:11px;background-color:#69c;color:#fff;font-weight:bold;}
+.cheader2 {font-family:verdana,geneva,san-serif;font-size:11px;background-color:#c5e0fd;color:#000;font-weight:bold;}
+.csubhd {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fff;color:#666;}
+ccont {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fff;color:#369;}
+.theader {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#ccc;color:#000;font-weight:bold}
+.tcont {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#e8e8e8;color:#000;}
+
+
+
+
+.lheader {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#fff;color:#369;font-weight:bolder;}
+.rheader {font-family:verdana,geneva,san-serif;font-size:10px;background-color:#69c;color:#fff;font-color:#fff;}
+p {font-family:verdana,geneva,san-serif;color:#000;}
+.content {font-family:verdana,geneva,san-serif;color:#000;font-size:11px;}
+h2 {font-family:verdana,geneva,san-serif;color:#369;font-size:16px;}
+h3 {font-family:verdana,geneva,san-serif;color:#000;font-size:12px;}
+.lhd {font-family:verdana,geneva,san-serif;color:#69c;font-size:10px;}
+.rcont {font-family:verdana,geneva,san-serif;color:#000;font-size:10px;}
+.lcont {font-family:verdana,geneva,san-serif;color:#000;font-size:10px;}
+b {font-weight:bold;}
+ul {list-style-type:disc;color:#000;}
+td {font-family:verdana,geneva,san-serif;color:#000;font-size:11px;}
+.button  { FONT-SIZE: 10px; color: #000000; 
+								cursor: hand; 
+								border: solid 1px #808080; 
+								background: url(img/button_back.gif) center; 
+								padding:1px; }
+
+/*
+table.ctryreg {border-width: 1px; border-color: #000000; border-style: none; border-collapse: collapse;}
+td.ctryregHeader {text-align: left; border-width: 1px; border-style: solid; padding-left:3px; padding-right: 3px; padding-top:12px; padding-bottom:3px; background:#5080a3; color:#ffffff; font-weight: bold;}
+td.ctryregRow {text-align: left; border-width: 1px; border-style: solid; padding:3px; background:#f5f5f5; color:#000000;}
+td.ctryregRowBlank {text-align: left; border-width: 0px; border-style: none; padding:3px; background:#ffffff; color:#000000;}
+td.ctryregRowDarkBG {text-align: left; border-width: 1px; border-style: solid; padding:3px; background:#f5f5f5; color:#000000; background-color:#e0e0e0;}
+*/
+/* the following are for tables in the National Classifications register */
+table.ctryreg {border-width: 1px; border-color: #000000; border-style: none; border-collapse: collapse;}
+td.ctryregHeader {text-align: left; border-width: 1px; border-style: solid; padding-left:3px; padding-right: 3px; padding-top:12px; padding-bottom:3px; background:#5080a3; color:#ffffff; font-weight: bold;}
+td.ctryregRow {text-align: left; border-width: 1px; border-style: solid; padding:3px; background:#f5f5f5; color:#000000;}
+td.ctryregRowBlank {text-align: left; border-width: 0px; border-style: none; padding:3px; background:#ffffff; color:#000000;}
+td.ctryregRowDarkBG {text-align: left; border-width: 1px; border-style: solid; padding:3px; background:#f5f5f5; color:#000000; background-color:#e0e0e0;}
+/* the follwoing are for tables within the tables of the National Classifications register (use different color scheme eventually) */
+table.ctryreg2 {border-width: 1px; border-color: #000000; border-style: solid; border-collapse: collapse;}
+td.ctryregHeader2 {text-align: left; border-width: 1px; border-style: solid; padding-left:3px; padding-right: 3px; padding-top:12px; padding-bottom:3px; background:#4682b4; color:#ffffff; font-weight: bold;}
+td.ctryregRow2 {text-align: left; border-width: 1px; border-style: solid; padding:3px; background:#f5f5f5; color:#000000;}
+
+
+#tooltip1 { position: relative; }
+#tooltip1 a span { display: none; color: #FFFFFF; }
+#tooltip1 a:hover span { border: solid; border-color: #000000; border-width: 1px;  z-index: 200; display: block; position: absolute; width: 250px; background-color: #bdbdbd; height: 40px; left: 50px; top: -10px; color: #000000;  padding: 10px; text-decoration: none; zoom: 1; opacity: 1.0; filter: alpha(opacity=100);}
+

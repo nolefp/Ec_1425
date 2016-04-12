@@ -1,0 +1,1183 @@
+mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,prior_party_id,prior_party_name,date
+70017,Aleksandrovac,,,,,,,,,
+70025,Aleksinac,,,,,,,,,
+70033,Arandjelovac,1,0,1,Bojan Radovic,1,SNS,2,DS,2012-08-29
+70033,Arandjelovac,1,0,1,Vlada Gajic,2,DS,17,SRS,2008-05-23
+70041,Arilje,,,,,,,,,
+70050,Babusnica,1,0,1,Sasa Stamenkovic,1,SNS,3,SPS,2012-08-06
+70050,Babusnica,1,,,Zlatko Arsic,3,SPS,,,2008-05-20
+70068,Bajina Basta,1,0,1,Radomir Filipovic,1,SNS,17,SRS,2014-03-25
+70068,Bajina Basta,1,0,0,Zlatan Jovanovic,17,SRS,17,SRS,2011-06-06
+70076,Batocina,,,,,,,,,
+70084,Bela Palanka,,,,,,,,,
+70092,Beograd-Barajevo,,,,,,,,,
+70106,Beograd-Vozdovac,,,,,,,,,
+70122,Beograd-Grocka,,,,,,,,,
+70144,Beograd-Vracar,,,,,,,,,
+70149,Beograd-Zvezdara,1,1,0,Edip Serifov,2,DS,2,DS,2014-06-11
+70149,Beograd-Zvezdara,1,0,0,Edip Serifov,2,DS,2,DS,2012-05-15
+70149,Beograd-Zvezdara,1,,,Milan Popovic,2,DS,,,2008-07-09
+70157,Beograd-Zemun,1,0,0,Dejan Matic,1,SNS,1,SNS,2013-07-04
+70157,Beograd-Zemun,1,0,1,Branislav Prostran,1,SNS,17,SRS,2009-07-21
+70165,Beograd-Lazarevac,,,,,,,,,
+70173,Beograd-Mladenovac,,,,,,,,,
+70181,Beograd-Novi Beograd,,,,,,,,,
+70190,Beograd-Obrenovac,,,,,,,,,
+70203,Beograd-Palilula,1,0,0,Stojan Nikolic,2,DS,2,DS,2012-06-10
+70203,Beograd-Palilula,1,,,Danilo Basic,2,DS,,,2008-07-15
+70211,Beograd-Rakovica,1,0,0,Vladan Kocic,1,SNS,1,SNS,2014-06-10
+70211,Beograd-Rakovica,1,0,1,Milosav Milickovic,1,SNS,2,DS,2012-07-05
+70211,Beograd-Rakovica,1,1,0,Bojan Milic,2,DS,2,DS,2008-07-13
+70220,Beograd-Savski Venac,,,,,,,,,
+70238,Beograd-Sopot,,,,,,,,,
+70246,Beograd-Stari Grad,,,,,,,,,
+70254,Beograd-cukarica,,,,,,,,,
+70262,Blace,1,0,1,Ivan Burgic,1,SNS,7,DSS,2014-06-20
+70262,Blace,1,0,1,Radoje Krstovic,7,DSS,2,DS,2012-03-06
+70262,Blace,1,,,Nebojsa Milosavljevic,2,DS,,,2008-07-11
+70289,Bogatic,1,0,1,Nenad Beserovac,3,SPS,2,DS,2012-05-15
+70289,Bogatic,1,,,Slobodan Savic,2,DS,,,2008-07-01
+70297,Bojnik,1,0,1,Ivan Stanojevic,1,SNS,2,DS,2012-06-05
+70297,Bojnik,1,0,1,Nebojsa Nenadovic,2,DS,17,SRS,2008-12-20
+70319,Boljevac,,,,,,,,,
+70327,Bor,,,,,,,,,
+70335,Bosilegrad,,,,,,,,,
+70343,Brus,1,0,1,Milutin Jelicic,15,NS,1,SNS,2015-03-24
+70343,Brus,1,0,1,Slobodan Vidojevic,1,SNS,3,SPS,2013-08-21
+70343,Brus,1,0,1,Zoran Obradovic,3,SPS,15,NS,2012-06-07
+70343,Brus,1,,,Zoran Sljivic,15,NS,,,2008-06-01
+70351,Bujanovac,,,,,,,,,
+70360,Valjevo,1,1,0,Stanko Terzic,3,SPS,3,SPS,2014-06-21
+70360,Valjevo,1,0,1,Stanko Terzic,3,SPS,3,SPs,2012-05-29
+70360,Valjevo,1,0,1,Zoran Jakovljevic,2,DS,7,DSS,2008-08-01
+70378,Varvarin,1,1,0,Zoran Milenkovic,25,SPO,25,SPO,2012-05-06
+70378,Varvarin,1,1,0,Zoran Milenkovic,25,SPO,,,2008-07-07
+70386,Velika Plana,,,,,,,,,
+70394,Veliko Gradiste,,,,,,,,,
+70408,Vladimirci,,,,,,,,,
+70416,Vladicin Han,1,0,0,Branislav Tosic,1,SNS,1,SNS,2014-11-11
+70416,Vladicin Han,1,0,1,Goran Mladenovic,1,SNS,2,DS,2012-07-04
+70416,Vladicin Han,1,,,Nenad Mitrovic,2,DS,,,2008-07-08
+70424,Vlasotince,,,,,,,,,
+70432,Vranje,1,0,0,Zoran Antic,3,SPS,3,SPS,2012-07-01
+70432,Vranje,1,1,0,Miroljub Stojcic,3,SPS,3,SPS,2008-06-02
+70459,Vrnjacka Banja,1,0,1,Boban Djurovic,1,SNS,2,SNS,2012-08-21
+70459,Vrnjacka Banja,1,,,Zoran Seizovic,2,DS,,,2008-05-14
+70467,Gadzin Han,1,1,0,Sasa Djordjevic,3,SPS,3,SPS,2012-05-08
+70467,Gadzin Han,1,1,,Sasa Djordjevic,3,SPS,,,2008-05-25
+70475,Golubac,1,0,1,Nebojsa Mijovic,1,SNS,2,DS,2014-10-25
+70475,Golubac,1,1,0,Zoran Pajkic,2,DS,2,DS,2010-06-06
+70483,Gornji Milanovac,1,0,1,Milisav Mirkovic,2,DS,3,SPS,2012-05-06
+70483,Gornji Milanovac,1,1,0,Drazimir Marusic,3,SPS,3,SPS,2008-05-05
+70491,Despotovac,1,0,1,Dejan Nenadovic,3,SPS,2,DS,2013-01-10
+70491,Despotovac,1,1,0,Malisa Alimpijevic,2,DS,2,DS,2012-05-21
+70491,Despotovac,1,0,,Malisa Alimpijevic,2,DS,,,2010-06-01
+70505,Dimitrovgrad,,,,,,,,,
+70513,Doljevac,0,1,1,Goran Ljubic,1,SNS,26,PZJ,2016-02-13
+70513,Doljevac,1,1,0,Goran Ljubic,26,PZJ,26,PZJ,2012-05-10
+70513,Doljevac,1,1,,Goran Ljubic,26,PZJ,,,2008-05-17
+70521,Zabari,1,1,0,Miodrag Filipovic,3,SPS,3,SPS,2014-06-05
+70521,Zabari,1,1,0,Miodrag Filipovic,3,SPS,3,SPS,2012-05-17
+70521,Zabari,1,,,Miodrag Filipovic,3,SPS,,,2008-07-01
+70530,zagubica,1,0,0,Safet Pavlovic,3,SPS,3,SPS,2013-03-28
+70530,zagubica,1,0,1,Sasa Ognjanovic,3,SPS,4,URS,2012-06-07
+70530,zagubica,1,,,Dragi Damnjanovic,4,URS,,,2008-07-03
+70548,Zitoradja,0,0,0,Sinisa Ilic ,1,SNS,1,SNS,2015-06-05
+70548,Zitoradja,1,0,1,Sladjan Mladenovic,1,SNS,19,SDS,2015-01-02
+70548,Zitoradja,1,0,1,Goran Stojkovic,19,SDS,2,DS,2014-06-01
+70548,Zitoradja,1,0,1,Miodrag Petrovic,2,DS,3,SPS,2011-03-09
+70556,Zajecar,1,0,1,Velimir Ognjanovic,1,SNS,4,URS,2013-08-05
+70556,Zajecar,1,1,1,Bosko Nicic,4,URS,4,URS,2012-07-10
+70556,Zajecar,1,0,1,Bosko Nicic,4,URS,2,DS,2008-05-01
+70564,Ivanjica,1,0,1,Milomir Zoric,9,GGMZ,10,GGZI,2012-07-27
+70564,Ivanjica,1,0,0,Radomir Ristic,10,GGZI,10,GGZI,2009-05-12
+70572,Kladovo,0,0,1,Dragan Budujkic,1,SNS,3,SPS,2015-05-29
+70572,Kladovo,1,0,1,Radovan Arezina,3,SPS,2,DS,2008-04-16
+70599,Knic,1,0,1,Ljubomir Djurdjevic,13,JS,3,SPS,2014-03-04
+70599,Knic,1,0,1,Dragana Jovanovic,3,SPS,2,DS,2012-05-07
+70599,Knic,1,,,Borislav Busarac,2,DS,,,2008-05-05
+70688,Kursumlija,1,1,1,Radoljub Vidic,1,SNS,7,DSS,2012-07-17
+70688,Kursumlija,1,0,1,Goran Bojovic,15,NS,2,DS,2009-08-01
+70602,Knjazevac,0,1,1,Milan Djokic,-1,Nejasna,4,URS,2014-06-02
+70602,Knjazevac,1,0,1,Milan Djokic,4,URS,2,DS,2012-07-14
+70602,Knjazevac,1,,,Mladen Radosavljevic,2,DS,,,2008-05-20
+70629,Kosjeric,,,,,,,,,
+70637,Koceljeva,1,0,0,Dusan Ilincic,1,SNS,1,SNS,2014-10-09
+70637,Koceljeva,0,1,1,Veroljub Matic,1,SNS,8,GGVM,2013-06-24
+70637,Koceljeva,1,1,1,Veroljub Matic,8,GGVM,8,GGVM,2012-06-01
+70637,Koceljeva,1,,,Veroljub Matic,8,GGzVM,,,2008-05-11
+70645,Kragujevac - grad,,,,,,,,,
+70653,Kraljevo,0,1,1,Tomislav Ilic,1,SNS,15,NS,2016-01-05
+70653,Kraljevo,1,0,1,Tomislav Ilic,15,NS,1,SNS,2014-06-20
+70653,Kraljevo,1,0,1,Dragan Jovanovic,1,SNS,2,DS,2012-07-27
+70653,Kraljevo,1,1,0,Ljubisa Simovic,2,DS,2,DS,2010-07-20
+70661,Krupanj,,,,,,,,,
+70670,Krusevac,,,,,,,,,
+70696,Kucevo,1,0,0,Novica Janosevic,1,SNS,1,SNS,2014-04-28
+70696,Kucevo,1,1,0,Zoran Milekic,1,SNS,1,SNS,2012-07-15
+70696,Kucevo,1,1,,Zoran Milekic,1,SNS,,,2008-05-18
+70700,Lajkovac,0,1,1,Zivorad Bojicic,11,PS,3,SPS,2015-10-05
+70700,Lajkovac,1,0,1,Zivorad Bojicic,3,SPS,7,DSS,2012-08-01
+70700,Lajkovac,1,1,0,Dusan Zivanovic,7,DSS,7,DSS,2008-06-05
+70718,Lebane,,,,,,,,,
+70726,Leskovac,1,0,1,Goran Cvetanovic,1,SNS,2,DS,2012-11-01
+70726,Leskovac,1,0,1,Slobodan Kocic,2,DS,17,SRS,2009-03-05
+71056,Svilajnac,0,1,1,Predrag Milanovic,19,SDS,2,DS,2014-07-18
+71056,Svilajnac,1,0,1,Predrag Milanovic,2,DS,4,URS,2012-05-26
+71056,Svilajnac,1,,,Gorica Dimcic-Tasic,4,URS,,,2008-05-25
+70734,Loznica,1,1,1,Vidoje Petrovic,1,SNS,29,PzLP,2015-06-08
+70734,Loznica,1,1,1,Vidoje Petrovic,29,PzLP,4,URS,2014-05-29
+70734,Loznica,1,1,1,Vidoje Petrovic,4,URS,4,URS,2012-05-10
+70734,Loznica,1,1,,Vidoje Petrovic,4,URS,,,2008-07-03
+70742,Lucani,,,,,,,,,
+70769,Ljig,1,0,1,Dragan Lazarevic,1,SNS,3,SPS,2014-04-28
+70769,Ljig,1,0,1,Miodrag Starcevic,3,SPS,15,NS,2012-06-21
+70769,Ljig,1,,,Miroslav Maksimovic,15,NS,,,2008-05-30
+70777,Ljubovija,1,0,0,Miroslav Micic,3,SPS,3,SPS,2013-04-30
+70777,Ljubovija,1,0,0,Milovan Kovacevic,3,SPS,3,SPS,2013-04-15
+70777,Ljubovija,1,0,0,Miroslav Micic,3,SPS,3,SPS,2012-07-18
+70777,Ljubovija,1,,,Milovan Kovacevic,3,SPS,,,2008-05-22
+70785,Majdanpek,,,,,,,,,
+70793,Mali Zvornik,1,0,1,Zoran Jevtic,1,SNS,3,SPS,2014-11-28
+70793,Mali Zvornik,1,0,1,Miodrag Lazic,3,SPS,2,DS,2010-10-20
+70807,Malo Crnice,,,,,,,,,
+70815,Medvedja,1,0,1,Nebojsa Arsic,1,SNS,35,GGGJ,2015-11-12
+70815,Medvedja,1,1,0,Slobodan Draskovic,35,GGGJ,3,SPS,2010-12-01
+70823,Merosina,,,,,,,,,
+70831,Mionica,1,0,1,Boban Jankovic,1,SNS,3,SPS,2015-01-22
+70831,Mionica,1,0,1,Dragan Gavrilovic,3,SPS,15,NS,2012-06-13
+70831,Mionica,1,,,Milan Matic,15,NS,,,2008-07-08
+70840,Negotin,1,0,1,Jovan Milovanovic,1,SNS,3,SPS,2014-05-15
+70840,Negotin,1,0,1,Milan Urkovic,3,SPS,2,DS,2012-09-21
+70840,Negotin,1,,,Vlajko Djordjevic,2,DS,,,2010-05-11
+70866,Nova Varos,,,,,,,,,
+70874,Novi Pazar,1,0,0,Dr.Meho Mahmutovic,31,SDPS,32,SDA,2009-09-14
+70882,Osecina,0,1,1,Nenad Stevanovic,1,SNS,4,URS,2015-08-18
+70882,Osecina,1,1,1,Nenad Stevanovic,4,URS,37,G17+,2012-05-29
+70882,Osecina,1,0,,Nenad Stevanovic,37,G17+,,,2008-05-06
+70904,Paracin,1,1,0,Sasa Paunovic,2,DS,2,DS,2012-05-29
+70904,Paracin,1,1,,Sasa Paunovic,2,DS,,,2008-05-20
+70912,Petrovac,,,,,,,,,
+70939,Pirot,1,1,0,Vladan Vasic,30,KzP,30,KzP,2012-06-01
+70939,Pirot,1,1,,Vladan Vasic,30,KzP,,,2008-05-27
+70947,Pozarevac,1,0,1,Miomir Ilic,3,SPS,2,DS,2013-02-01
+70947,Pozarevac,1,0,1,Miodrag Milosavljevic,2,DS,7,DSS,2011-06-24
+70955,Pozega,1,0,1,Milan Bozic,1,SNS,2,DS,2015-10-22
+70955,Pozega,1,1,0,Milovan Micovic,2,DS,2,DS,2012-05-10
+70955,Pozega,1,0,,Milovan Micovic,2,DS,,,2008-05-25
+70963,Presevo,1,1,0,Ragmi Mustafa,18,DPA,18,DPA,2012-05-07
+70963,Presevo,1,1,,Ragmi Mustafa,18,DPA,,,2008-05-22
+70971,Priboj,,,,,,,,,
+70980,Prijepolje,0,0,1,Emir Hasimbegovic,27,SDzP,1,SNS,2012-01-07
+70980,Prijepolje,1,0,1,Dragoljub Zindovic,1,SNS,2,DS,2010-04-04
+70998,Prokuplje,,,,,,,,,
+71005,Razanj,1,1,0,Dobrica Stanojevic,15,NS,15,NS,2012-05-15
+71005,Razanj,1,1,0,Dobrica Stanojevic,15,NS,15,NS,2008-06-20
+71013,Raca,1,0,1,Dragan Stevanovic,1,SNS,4,URS,2015-08-23
+71013,Raca,1,1,0,Dragana Zivanovic,4,URS,15,NS,2012-12-08
+71013,Raca,1,,,Dragana Zivanovic,15,NS,,,2008-07-03
+71021,Raska,0,0,1,Ignjat Rakitic,1,SNS,3,SPS,2014-06-12
+71021,Raska,1,0,0,Jovan Corbic,3,SPS,3,SPS,2012-09-11
+71021,Raska,1,1,0,Dragisa Ilic,3,SPS,3,SPS,2008-05-11
+71030,Rekovac,,,,,,,,,
+71048,Jagodina,,,,,,,,,
+71064,Svrljig,1,0,0,Jelena Trifunovic,23,USS,23,USS,2014-04-18
+71064,Svrljig,1,1,0,Milija Miletic,23,USS,23,USS,2012-06-28
+71064,Svrljig,1,0,,Milija Miletic,23,USS,,,2008-07-10
+71072,Sjenica,1,0,1,Hazbo Mujovic,32,SDA,27,SDzP,2012-06-20
+71072,Sjenica,1,,,Muriz Turkovic,27,SDzp,,,2008-05-16
+71099,Smederevo,,,,,,,,,
+71102,Smederevska Palanka,1,0,0,Radoslav Milojicic,2,DS,2,DS,2012-05-20
+71102,Smederevska Palanka,1,,,Zivko Petrovic,2,DS,2,DS,2008-05-21
+71129,Sokobanja,,,,,,,,,
+71137,Surdulica,1,0,0,Aleksandra Popovic,3,SPS,3,SPS,2014-05-29
+71137,Surdulica,1,1,0,Novica Toncev,3,SPS,3,SPS,2012-06-06
+71137,Surdulica,1,,,Novica Toncev,3,SPS,,,2008-05-28
+71145,Uzice,,,,,,,,,
+71153,Topola,1,1,0,Dragan Jovanovic,15,NS,15,NS,2012-05-31
+71153,Topola,1,,,Dragan Jovanovic,15,NS,,,2008-06-01
+71161,Trgoviste,1,0,1,Nenad Krstic,1,SNS,3,SPS,2013-03-18
+71161,Trgoviste,1,0,1,Radoslav Jordanovic,3,SPS,4,URS,2012-06-10
+71161,Trgoviste,1,,,Darko Tomic,4,URS,,,2008-05-30
+71170,Trstenik,0,1,1,Miroslav Aleksic,16,NPS,4,URS,2014-09-21
+71170,Trstenik,1,0,1,Miroslav Aleksic,4,URS,2,DS,2012-07-09
+71170,Trstenik,1,,,Stevan Djakovic,2,DS,,,2008-06-03
+71188,Tutin,,,,,,,,,
+71196,Cicevac,,,,,,,,,
+71200,Cuprija,1,0,1,Ninoslav Eric,1,SNS,38,GGR,2013-03-22
+71200,Cuprija,1,0,1,Radosav Djordjevic,38,GGR,3,SPS,2012-12-07
+71200,Cuprija,1,0,1,Slobodan Lazic,3,SPS,13,JS,2012-07-07
+71200,Cuprija,1,,,Borivoje Kalaba,13,JS,,,2008-06-04
+71218,Ub,,,,,,,,,
+71226,Crna Trava,1,1,0,Slavoljub Blagojevic,7,DSS,7,DSS,2012-06-04
+71226,Crna Trava,1,1,0,Slavoljub Blagojevic,7,DSS,7,DSS,2008-07-07
+71234,Cajetina,0,1,1,Milan Stamatovic,21,SNP,7,DSS,2014-09-22
+71234,Cajetina,1,1,0,Milan Stamatovic,7,DSS,7,DSS,2012-05-14
+71234,Cajetina,1,1,,Milan Stamatovic,7,DSS,,,2008-07-01
+71242,Cacak,1,0,0,Vojislav Ilic,15,NS,15,NS,2012-07-22
+71242,Cacak,1,,,Velimir Stanojevic,15,NS,,,2008-05-15
+71269,Sabac,,,,,,,,,
+71277,Lapovo,1,0,1,Nebojsa Tasic,1,SNS,34,GGZZL,2015-06-11
+71277,Lapovo,1,0,1,Jasna Jovanovic,34,GGZZL,2,DS,2014-07-21
+71277,Lapovo,1,0,1,Nebojsa Miletic,2,DS,34,GGZZL,2012-06-08
+71277,Lapovo,1,1,0,Dragan Zlatkovic,25,SPO,,,2008-06-06
+71285,Nis-Niska Banja,0,1,1,Zoran VIdanovic,21,SNP,4,URS,2015-12-01
+71285,Nis-Niska Banja,0,1,1,Zoran VIdanovic,4,URS,7,DSS,2012-11-16
+71285,Nis-Niska Banja,1,1,0,Zoran VIdanovic,7,DSS,7,DSS,2012-06-06
+71285,Nis-Niska Banja,1,,,Zoran VIdanovic,7,DSS,,,2008-06-04
+71293,Beograd-Surcin,,,,,,,,,
+71307,Nis-Pantelej,,,,,,,,,
+71315,Nis-Crveni Krst,1,0,0,Miroslav Milutinovic,1,SNS,1,SNS,2014-05-14
+71315,Nis-Crveni Krst,1,0,0,Darko Bulatovic,1,SNS,17,SRS,2012-07-17
+71315,Nis-Crveni Krst,1,,,Lelica Kostic,17,SRS,,,2008-06-06
+71323,Nis-Palilula,,,,,,,,,
+71331,Nis-Mediana,1,0,1,Zoran Stojanovic,1,SNS,4,URS,2014-08-04
+71331,Nis-Mediana,1,0,1,Nebojsa Krstic,4,URS,2,DS,2012-05-01
+71331,Nis-Mediana,1,1,0,Dragoslav Crikovic,2,DS,2,DS,2008-04-23
+71340,Kostolac,1,0,0,Ivan Savic,1,SNS,1,SNS,2014-11-01
+71340,Kostolac,1,0,1,Borka Sutovic,1,SNS,3,SPS,2012-06-04
+71340,Kostolac,1,0,1,Vladimir Vila,3,SPS,2,DS,2008-04-04
+71358,Vranjska Banja,,,,,,,,,
+79014,Grad Beograd,1,0,1,Sinisa Mali,1,SNS,2,DS,2015-04-24
+79014,Grad Beograd,1,1,0,Dragan Djilas,2,DS,2,DS,2012-06-11
+79014,Grad Beograd,1,0,0,Dragan Djilas,2,DS,2,DS,2008-04-23
+79022,Grad Nis,1,0,1,Zoran Perisic,1,SNS,2,DS,2012-07-01
+79022,Grad Nis,1,,,Milos Simonovic,2,DS,,,2008-06-02
+79049,Grad Pozarevac,,,,,,,,,
+79057,Grad Vranje,1,0,0,Zoran Antic,3,SPS,3,SPS,2012-07-05
+79057,Grad Vranje,1,1,0,Miroljub Stojcic,3,SPS,3,SPS,2008-03-14
+80012,Ada,,,,,,,,,
+80039,Alibunar,1,0,1,Predrag Belic,1,SNS,2,DS,2015-06-19
+80039,Alibunar,1,1,0,Dusan Jovanovic,2,DS,2,DS,2012-06-04
+80039,Alibunar,1,,0,Dusan Jovanovic,2,DS,,,2011-10-10
+80047,Apatin,1,1,0,Zivorad Smiljanic,3,SPS,3,SPS,2012-06-01
+80047,Apatin,1,1,0,Zivorad Smiljanic,3,SPS,3,SPS,2008-05-25
+80055,Bac,,,,,,,,,
+80063,Backa Palanka,1,0,1,Aleksandar Djedovac,1,SNS,1,SNS,2013-03-29
+80063,Backa Palanka,1,0,1,Bojan Radman,3,SPS,17,SRS,2012-07-03
+80063,Backa Palanka,1,,,Dragan Bozalo,17,SRS,,,2008-06-05
+80071,Backa Topola,1,0,0,Gabor Kislinder,6,SVM,6,SVM,2014-12-12
+80071,Backa Topola,1,0,0,Melinda Kokai Menjak,6,SVM,6,SVM,2012-05-05
+80071,Backa Topola,1,,,Atila Babi ,6,SVM,,,2008-05-15
+80080,Backi Petrovac,1,0,0,Pavel Marcok,2,DS,2,DS,2012-05-10
+80080,Backi Petrovac,1,,,Vladimir Turan,2,DS,,,2008-05-01
+80098,Bela Crkva,,,,,,,,,
+80101,Beocin,,,,,,,,,
+80110,Becej,1,0,1,Vuk Radojevic,1,SNS,6,SVM,2012-12-26
+80110,Becej,1,,,Peter Knezi,6,SVM,,,2008-06-08
+80128,Vrsac,,,,,,,,,
+80136,zabalj,0,1,1,Cedomir Bozic,36,GGCB,2,DS,2016-02-04
+80136,zabalj,0,1,1,Cedomir Bozic,2,DS,19,SDS,2015-02-07
+80136,zabalj,0,1,1,Cedomir Bozic,19,SDS,2,DS,2014-03-15
+80136,zabalj,1,0,0,Cedomir Bozic,2,DS,2,DS,2012-06-10
+80136,zabalj,1,0,1,Branko Stajic,2,DS,,,2008-06-01
+80144,zitiste,1,0,1,Mitar Vucurevic,1,SNS,2,DS,2013-08-07
+80144,zitiste,1,0,1,Ljubinko Petrovic,2,DS,3,SPS,2013-06-25
+80144,zitiste,1,0,1,Dusan Milicev,3,SPS,2,DS,2012-07-10
+80144,zitiste,1,0,,Dragan Milenkovic,2,DS,,,2008-08-02
+80152,Zrenjanin,1,0,1,Eleonora Marjanovic,3,SPS,1,SNS,2015-01-30
+80152,Zrenjanin,1,0,0,Cedomir Janjic,1,SNS,1,SNS,2014-07-12
+80152,Zrenjanin,1,0,0,Ivan Bosnjak,1,SNS,1,SNS,2012-08-21
+80152,Zrenjanin,1,0,1,Goran Knezevic,1,SNS,2,DS,2012-07-06
+80152,Zrenjanin,1,0,,Mileta Mihajlov,2,DS,,,2009-04-01
+80179,Indjija,1,0,0,Petar Filipovic,2,DS,2,DS,2014-05-25
+80179,Indjija,1,1,0,Goran Jesic,2,DS,2,DS,2012-05-03
+80187,Irig,,,,,,,,,
+80195,Kanjiza,1,0,0,Mihalj Bimbo,6,SVM,6,SVM,2014-07-10
+80195,Kanjiza,1,1,0,Mihalj Njilas,6,SVM,6,SVM,2012-05-15
+80195,Kanjiza,1,,,Mihalj Njilas,6,SVM,,,2008-06-07
+80209,Kikinda,1,0,1,Pavle Markov,1,SNS,2,DS,2013-09-13
+80209,Kikinda,1,0,0,Savo Dobranic,2,DS,2,DS,2012-07-16
+80209,Kikinda,1,,,Ilija Vojinovic,2,DS,,,2008-06-10
+80217,Kovacica,1,0,1,Jan Husarik,1,SNS,2,DS,2015-10-29
+80217,Kovacica,1,1,0,Miroslav Krisan,2,DS,2,DS,2012-06-01
+80217,Kovacica,1,,,Miroslav Krisan,2,DS,,,2008-06-09
+80225,Kovin,1,0,1,Sanja Petrovic,1,SNS,3,SPS,2015-09-18
+80225,Kovin,1,0,1,Zoran Nikolic,3,SPS,1,SNS,2015-06-23
+80225,Kovin,1,0,0,Sanja Petrovic,1,SNS,1,SNS,2015-02-19
+80225,Kovin,1,0,0,Dusan Petrovic,1,SNS,1,SNS,2014-06-12
+80225,Kovin,1,0,1,Gordana Zoric,1,SNS,2,DS,2013-05-15
+80225,Kovin,1,0,1,Slavko Brankovic,2,DS,17,SRS,2009-05-07
+80233,Kula,1,0,1,Dragan Trifunovic,1,SNS,2,DS,2012-10-08
+80233,Kula,1,0,0,Lazar Greber,2,DS,2,DS,2012-06-06
+80233,Kula,1,,,Svetozar Bukvic,2,DS,,,2008-05-14
+80241,Mali Idjos,,,,,,,,,
+80250,Nova Crnja,,,,,,,,,
+80268,Novi Becej,,,,,,,,,
+80276,Novi Knezevac,,,,,,,,,
+80284,Novi Sad - grad ,1,0,1,Milos Vucevic,1,SNS,2,DS,2012-09-15
+80284,Novi Sad - grad ,1,1,0,Igor Pavlicic,2,DS,2,DS,2012-06-20
+80284,Novi Sad - grad ,1,0,1,Igor Pavlicic,2,DS,17,SRS,2008-07-16
+80292,Opovo,1,0,1,Milos Markov,1,SNS,39,GGMS,2015-09-25
+80292,Opovo,1,1,0,Milorad Soldatovic,39,GGMS,39,GGMS,2012-05-05
+80292,Opovo,1,1,1,Milorad Soldatovic,39,GGMS,12,PSS,2008-06-10
+80306,Odzaci,1,0,1,Dusan Marijan,1,SNS,2,DS,2012-05-20
+80306,Odzaci,1,,,Predrag Cvetanovic,2,DS,,,2010-03-29
+80314,Pancevo,1,0,0,Sasa Pavlov,1,SNS,1,SNS,2015-06-19
+80314,Pancevo,1,0,1,Pavle Radanov,1,SNS,3,SPS,2013-06-20
+80314,Pancevo,1,0,1,Svetozar Gavrilovic,3,SPS,2,DS,2012-07-07
+80314,Pancevo,1,,,Vesna Martinovic,2,DS,,,2008-07-08
+80322,Pecinci,,,,,,,,,
+80349,Plandiste,,,,,,,,,
+80357,Ruma,,,,,,,,,
+80365,Senta,1,0,1,Cegledi Rudolf,6,SVM,2,DS,2012-07-14
+80365,Senta,1,,,Aniko Sirkova,2,DS,,,2010-10-10
+80373,Secanj,0,1,1,Predrag Milosevic,1,SNS,2,DS,2014-01-22
+80373,Secanj,1,1,0,Predrag Milosevic,2,DS,33,GGZROS,2012-06-06
+80373,Secanj,1,1,,Predrag Milosevic,33,GGZROS,,,2008-06-10
+80381,Sombor,1,0,1,Sasa Todorovic,1,SNS,2,DS,2014-05-22
+80381,Sombor,1,1,0,Nemanja Delic,2,DS,2,DS,2012-06-21
+80381,Sombor,1,0,0,Nemanja Delic,2,DS,2,DS,2009-11-17
+80390,Srbobran,,,,,,,,,
+80403,Sremska Mitrovica,0,1,1,Branislav Nedimovic,1,SNS,28,GGVM,2015-01-16
+80403,Sremska Mitrovica,1,1,0,Branislav Nedimovic,28,GGVM,28,GGVM,2012-06-02
+80403,Sremska Mitrovica,1,0,0,Branislav Nedimovic,7,DSS,7,DSS,2008-06-30
+80411,Sremski Karlovci,1,1,0,Milenko Filipovic,2,DS,2,DS,2012-05-22
+80411,Sremski Karlovci,1,1,0,Milenko Filipovic,2,DS,,,2008-07-10
+80420,Stara Pazova,1,0,1,Djordje Radinovic,1,SNS,2,DS,2012-07-04
+80420,Stara Pazova,1,0,,Goran Jovic,2,DS,,,2008-05-01
+80438,Subotica,0,1,1,Jene Maglai,14,MP,6,SVM,2015-08-24
+80438,Subotica,1,0,1,Jene Maglai,6,SVM,2,DS,2013-11-21
+80438,Subotica,1,0,0,Modest Dulic,2,DS,2,DS,2012-07-01
+80438,Subotica,1,,,Sasa Vucinic,2,DS,,,2008-05-28
+80446,Temerin,1,0,1,Djuro Ziga,1,SNS,6,SVM,2014-10-11
+80446,Temerin,1,0,0,Andras Gustonj,6,SVM,6,SVM,2013-12-01
+80446,Temerin,1,0,1,Vladislav Capik,6,SVM,2,DS,2012-06-23
+80446,Temerin,1,0,,Andras Gustonj,40,DSVM,,,2010-10-10
+80454,Titel,,,,,,,,,
+80462,Vrbas,1,0,1,Bratislav Kazic,1,SNS,,,2013-07-11
+80462,Vrbas,1,0,0,Milan Stanimirovic,2,DS,2,DS,2012-12-22
+80462,Vrbas,1,1,0,Zeljko Vidovic,2,DS,2,DS,2012-05-16
+80462,Vrbas,1,,,Zeljko Vidovic,2,DS,,,2008-05-22
+80489,Coka,1,0,1,Balaz Ferenc,6,SVM,2,DS,2012-06-28
+80489,Coka,1,0,0,Emilj Poljak,2,DS,2,DS,2008-05-10
+80497,Sid,1,0,1,Nikola Vasic,1,SNS,2,DS,2012-08-29
+80497,Sid,1,,,Natasa Cvjetkovic,2,DS,,,2009-03-11
+80519,Petrovaradin,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

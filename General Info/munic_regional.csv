@@ -1,0 +1,205 @@
+old,mun_id,mun,region_id,region,area_id,area
+RS11,79014,Beograd,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70092,Beograd-Barajevo,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70106,Beograd-Voždovac,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70114,Beograd-Vra?ar,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70122,Beograd-Grocka,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70149,Beograd-Zvezdara,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70157,Beograd-Zemun,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70165,Beograd-Lazarevac,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70173,Beograd-Mladenovac,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70181,Beograd-Novi Beograd,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70190,Beograd-Obrenovac,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70203,Beograd-Palilula,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70211,Beograd-Rakovica,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70220,Beograd-Savski Venac,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70238,Beograd-Sopot,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70246,Beograd-Stari Grad,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,71293,Beograd-Sur?in,RS11,Beogradski region,RS111,Beogradska oblast
+RS111,70254,Beograd-?ukarica,RS11,Beogradski region,RS111,Beogradska oblast
+RS121,80381,Sombor-grad,RS12,Region Vojvodine,RS121,Zapadnoba?ka oblast
+RS121,80047,Apatin,RS12,Region Vojvodine,RS121,Zapadnoba?ka oblast
+RS121,80233,Kula,RS12,Region Vojvodine,RS121,Zapadnoba?ka oblast
+RS121,80306,Odžaci,RS12,Region Vojvodine,RS121,Zapadnoba?ka oblast
+RS122,80314,Pan?evo-grad,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80039,Alibunar,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80098,Bela Crkva,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80128,Vršac-grad,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80217,Kova?ica,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80225,Kovin,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80292,Opovo,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS122,80349,Plandište,RS12,Region Vojvodine,RS122,Južnobanatska oblast
+RS123,89010,Grad Novi Sad,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80284,Novi Sad,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80519,Petrovaradin,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80055,Ba?,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80063,Ba?ka Palanka,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80080,Ba?ki Petrovac,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80101,Beo?in,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80110,Be?ej,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80462,Vrbas,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80136,Žabalj,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80390,Srbobran,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80411,Sremski Karlovci,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80446,Temerin,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS123,80454,Titel,RS12,Region Vojvodine,RS123,Južnoba?ka oblast
+RS124,80209,Kikinda-grad,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS124,80012,Ada,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS124,80195,Kanjiža,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS124,80276,Novi Kneževac,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS124,80365,Senta,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS124,80489,?oka,RS12,Region Vojvodine,RS124,Severnobanatska oblast
+RS125,80438,Subotica-grad,RS12,Region Vojvodine,RS125,Severnoba?ka oblast
+RS125,80071,Ba?ka Topola,RS12,Region Vojvodine,RS125,Severnoba?ka oblast
+RS125,80241,Mali I?oš,RS12,Region Vojvodine,RS125,Severnoba?ka oblast
+RS126,80152,Zrenjanin-grad,RS12,Region Vojvodine,RS126,Srednjobanatska oblast
+RS126,80144,Žitište,RS12,Region Vojvodine,RS126,Srednjobanatska oblast
+RS126,80250,Nova Crnja,RS12,Region Vojvodine,RS126,Srednjobanatska oblast
+RS126,80268,Novi Be?ej,RS12,Region Vojvodine,RS126,Srednjobanatska oblast
+RS126,80373,Se?anj,RS12,Region Vojvodine,RS126,Srednjobanatska oblast
+RS127,80403,Sremska Mitrovica-grad,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80179,In?ija,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80187,Irig,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80322,Pe?inci,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80357,Ruma,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80420,Stara Pazova,RS12,Region Vojvodine,RS127,Sremska oblast
+RS127,80497,Šid,RS12,Region Vojvodine,RS127,Sremska oblast
+RS211,79065,Grad Užice,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,71145,Užice,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,71366,Sevojno,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70041,Arilje,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70068,Bajina Bašta,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70629,Kosjeri?,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70866,Nova Varoš,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70955,Požega,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70971,Priboj,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,70980,Prijepolje,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,71072,Sjenica,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS211,71234,?ajetina,RS21,Region Šumadije i Zapadne Srbije,RS211,Zlatiborska oblast
+RS212,70360,Valjevo-grad,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS212,70700,Lajkovac,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS212,70769,Ljig,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS212,70831,Mionica,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS212,70882,Ose?ina,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS212,71218,Ub,RS21,Region Šumadije i Zapadne Srbije,RS212,Kolubarska oblast
+RS213,71269,Šabac-grad,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70289,Bogati?,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70408,Vladimirci,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70637,Koceljeva,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70661,Krupanj,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70734,Loznica-grad,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70777,Ljubovija,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS213,70793,Mali Zvornik,RS21,Region Šumadije i Zapadne Srbije,RS213,Ma?vanska oblast
+RS214,71242,?a?ak-grad,RS21,Region Šumadije i Zapadne Srbije,RS214,Moravi?ka oblast
+RS214,70483,Gornji Milanovac,RS21,Region Šumadije i Zapadne Srbije,RS214,Moravi?ka oblast
+RS214,70564,Ivanjica,RS21,Region Šumadije i Zapadne Srbije,RS214,Moravi?ka oblast
+RS214,70742,Lu?ani,RS21,Region Šumadije i Zapadne Srbije,RS214,Moravi?ka oblast
+RS215,71048,Jagodina-grad,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS215,70491,Despotovac,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS215,70904,Para?in,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS215,71030,Rekovac,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS215,71056,Svilajnac,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS215,71200,?uprija,RS21,Region Šumadije i Zapadne Srbije,RS215,Pomoravska oblast
+RS216,70670,Kruševac-grad,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS216,70017,Aleksandrovac,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS216,70343,Brus,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS216,70378,Varvarin,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS216,71170,Trstenik,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS216,71196,?i?evac,RS21,Region Šumadije i Zapadne Srbije,RS216,Rasinska oblast
+RS217,70653,Kraljevo-grad,RS21,Region Šumadije i Zapadne Srbije,RS217,Raška oblast
+RS217,70459,Vrnja?ka Banja,RS21,Region Šumadije i Zapadne Srbije,RS217,Raška oblast
+RS217,70874,Novi Pazar-grad,RS21,Region Šumadije i Zapadne Srbije,RS217,Raška oblast
+RS217,71021,Raška,RS21,Region Šumadije i Zapadne Srbije,RS217,Raška oblast
+RS217,71188,Tutin,RS21,Region Šumadije i Zapadne Srbije,RS217,Raška oblast
+RS218,70645,Kragujevac-grad,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,70033,Aran?elovac,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,70076,Bato?ina,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,70599,Kni?,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,71277,Lapovo,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,71013,Ra?a,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS218,71153,Topola,RS21,Region Šumadije i Zapadne Srbije,RS218,Šumadijska oblast
+RS221,70327,Bor,RS22,Region Južne i Isto?ne Srbije,RS221,Borska oblast
+RS221,70572,Kladovo,RS22,Region Južne i Isto?ne Srbije,RS221,Borska oblast
+RS221,70785,Majdanpek,RS22,Region Južne i Isto?ne Srbije,RS221,Borska oblast
+RS221,70840,Negotin,RS22,Region Južne i Isto?ne Srbije,RS221,Borska oblast
+RS222,79049,Grad Požarevac,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70947,Požarevac,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,71340,Kostolac,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70394,Veliko Gradište,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70475,Golubac,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70521,Žabari,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70530,Žagubica,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70696,Ku?evo,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70807,Malo Crni?e,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS222,70912,Petrovac na Mlavi,RS22,Region Južne i Isto?ne Srbije,RS222,Brani?evska oblast
+RS223,70556,Zaje?ar-grad,RS22,Region Južne i Isto?ne Srbije,RS223,Zaje?arska oblast
+RS223,70319,Boljevac,RS22,Region Južne i Isto?ne Srbije,RS223,Zaje?arska oblast
+RS223,70602,Knjaževac,RS22,Region Južne i Isto?ne Srbije,RS223,Zaje?arska oblast
+RS223,71129,Sokobanja,RS22,Region Južne i Isto?ne Srbije,RS223,Zaje?arska oblast
+RS224,70726,Leskovac-grad,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS224,70297,Bojnik,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS224,70424,Vlasotince,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS224,70718,Lebane,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS224,70815,Medve?a,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS224,71226,Crna Trava,RS22,Region Južne i Isto?ne Srbije,RS224,Jablani?ka oblast
+RS225,79022,Grad Niš ,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71331,Niš-Medijana,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71285,Niš-Niška Banja,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71323,Niš-Palilula,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71307,Niš-Pantelej,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71315,Niš-Crveni krst,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,70025,Aleksinac,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,70467,Gadžin Han,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,70513,Doljevac,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,70823,Merošina,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71005,Ražanj,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS225,71064,Svrljig,RS22,Region Južne i Isto?ne Srbije,RS225,Nišavska oblast
+RS226,70939,Pirot-grad,RS22,Region Južne i Isto?ne Srbije,RS226,Pirotska oblast
+RS226,70050,Babušnica,RS22,Region Južne i Isto?ne Srbije,RS226,Pirotska oblast
+RS226,70084,Bela Palanka,RS22,Region Južne i Isto?ne Srbije,RS226,Pirotska oblast
+RS226,70505,Dimitrovgrad,RS22,Region Južne i Isto?ne Srbije,RS226,Pirotska oblast
+RS227,71099,Smederevo-grad,RS22,Region Južne i Isto?ne Srbije,RS227,Podunavska oblast
+RS227,70386,Velika Plana,RS22,Region Južne i Isto?ne Srbije,RS227,Podunavska oblast
+RS227,71102,Smederevska Palanka,RS22,Region Južne i Isto?ne Srbije,RS227,Podunavska oblast
+RS228,79057,Grad Vranje,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,70432,Vranje,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,71358,Vranjska Banja,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,70335,Bosilegrad,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,70351,Bujanovac,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,70416,Vladi?in Han,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,70963,Preševo,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,71137,Surdulica,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS228,71161,Trgovište,RS22,Region Južne i Isto?ne Srbije,RS228,P?injska oblast
+RS229,70998,Prokuplje,RS22,Region Južne i Isto?ne Srbije,RS229,Topli?ka oblast
+RS229,70262,Blace,RS22,Region Južne i Isto?ne Srbije,RS229,Topli?ka oblast
+RS229,70548,Žitora?a,RS22,Region Južne i Isto?ne Srbije,RS229,Topli?ka oblast
+RS229,70688,Kuršumlija,RS22,Region Južne i Isto?ne Srbije,RS229,Topli?ka oblast
+RS231,90263,Priština-grad,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90034,Glogovac,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90115,Ka?anik,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90131,Kosovo Polje,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90166,Lipljan,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90204,Obili?,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90247,Podujevo,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90301,Uroševac,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90310,Štimlje,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS231,90328,Štrpce,RS23,Region Kosovo i Metohija,RS231,Kosovska oblast
+RS232,90298,Kosovska Mitrovica,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS232,90026,Vu?itrn,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS232,90352,Zve?an,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS232,90093,Zubin Potok,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS232,90158,Leposavi?,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS232,90271,Srbica,RS23,Region Kosovo i Metohija,RS232,Kosovsko-mitrova?ka oblast
+RS233,90042,Gnjilane,RS23,Region Kosovo i Metohija,RS233,Kosovsko-pomoravska oblast
+RS233,90018,Vitina,RS23,Region Kosovo i Metohija,RS233,Kosovsko-pomoravska oblast
+RS233,90140,Kosovska Kamenica,RS23,Region Kosovo i Metohija,RS233,Kosovsko-pomoravska oblast
+RS233,90182,Novo Brdo,RS23,Region Kosovo i Metohija,RS233,Kosovsko-pomoravska oblast
+RS234,90239,Pe?,RS23,Region Kosovo i Metohija,RS234,Pe?ka oblast
+RS234,90069,De?ani,RS23,Region Kosovo i Metohija,RS234,Pe?ka oblast
+RS234,90085,?akovica,RS23,Region Kosovo i Metohija,RS234,Pe?ka oblast
+RS234,90107,Istok,RS23,Region Kosovo i Metohija,RS234,Pe?ka oblast
+RS234,90123,Klina,RS23,Region Kosovo i Metohija,RS234,Pe?ka oblast
+RS235,90255,Prizren,RS23,Region Kosovo i Metohija,RS235,Prizrenska oblast
+RS235,90336,Gora,RS23,Region Kosovo i Metohija,RS235,Prizrenska oblast
+RS235,90212,Orahovac,RS23,Region Kosovo i Metohija,RS235,Prizrenska oblast
+RS235,90280,Suva Reka,RS23,Region Kosovo i Metohija,RS235,Prizrenska oblast

@@ -1,0 +1,42 @@
+name_abr,party_id,name_full,in_gov11,ingov12,ingov14,ag1_name_abr,ag1_party_id,ag1_name_full,ag2_name_abr,ag2_party_id,ag2_name_full,nat_party
+Partija Nejasna,-1,Partija Nejasna,0,0,0,Partija Nejasna,-1,Partija Nejasna,Partija Nejasna,-1,Partija Nejasna,-1
+SNS,1,Srpska Napredna Stranka,0,1,1,SNS,1,Srpska Napredna Stranka,SNS,1,Srpska Napredna Stranka,1
+DS,2,Demokratska Stranka,1,0,0,DS,2,Demokratska Stranka,DS,2,Demokratska Stranka,1
+SPS,3,Socijalisticka Partija Srbije,1,1,1,SPS,3,Socijalisticka Partija Srbije,SPS,3,Socijalisticka Partija Srbije,1
+URS,4,Ujedinjeni Regioni Srbije,1,1,0,URS,4,Ujedinjeni Regioni Srbije,URS,4,Ujedinjeni Regioni Srbije,1
+OGG,5,Opstinski Specificna Gradjanska Grupa,0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+SVM,6,Savez vojvodjanskih madjara,0,0,0,SVM,6,Savez vojvodjanskih madjara,SVM,6,Savez vojvodjanskih madjara,1
+DSS,7,Demokratska stranke Srbije,0,0,0,DSS,7,Demokratska stranke Srbije,DSS,7,Demokratska stranke Srbije,1
+GGzVM,8,Grupa Gradjana Veroljub Matic,0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+GGMZ,9,Grupa Gradjana Milomir Zoric,0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+GGZZI,10,Grupa Gradjana Zajedno za Ivanjicu,0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+PS,11,Pokret Socijalista,0,0,1,PS,11,Pokret Socijalista,PS,11,Pokret Socijalista,1
+PSS,12,Pokret Snaga Srbije,0,1,0,PSS,12,Pokret Snaga Srbije,PSS,12,Pokret Snaga Srbije,1
+JS,13,Jedinstvena Srbija,0,1,1,JS,13,Jedinstvena Srbija,JS,13,Jedinstvena Srbija,1
+MP,14,Madjarski pokret,0,0,0,EG,-3,Ethnic Group,LP,-4,Local Party,0
+NS,15,Nova Srbija,0,0,0,NS,15,Nova Srbija,NS,15,Nova Srbija,1
+NPS,16,Narodni Pokret Srbije,0,0,0,NPS,16,Narodni Pokret Srbije,NPS,16,Narodni Pokret Srbije,1
+SRS,17,Srpska Radikalna stranka,0,0,0,SRS,17,Srpska Radikalna stranka,SRS,17,Srpska Radikalna stranka,1
+DPA,18,Demokratska partija albanaca,0,0,0,EG,-3,Ethnic Group,LP,-4,Local Party,0
+SDS,19,Socijaldemokratska stranka,0,0,0,SDS,19,Socijaldemokratska stranka,SDS,19,Socijaldemokratska stranka,1
+LDP,20,Liberalno-demokratska partija,0,0,0,LDP,20,Liberalno-demokratska partija,LDP,20,Liberalno-demokratska partija,1
+SNP,21,Srpska narodna partija,0,0,0,SNP,21,Srpska narodna partija,SNP,21,Srpska narodna partija,1
+GSM,22,Gradjanski savez madjara,0,0,0,EG,-3,Ethnic Group,LP,-4,Local Party,0
+USS,23,Ujedinjena seljacka stranka,0,0,0,USS,23,Ujedinjena seljacka stranka,LP,-4,Local Party,0
+N,24,Nezavistan,0,0,0,Partija Nejasna,-1,Partija Nejasna,Partija Nejasna,-1,Partija Nejasna,-1
+SPO,25,Srpski pokret obnove,1,0,1,SPO,25,Srpski pokret obnove,SPO,25,Srpski pokret obnove,1
+PZJ,26,Pokret za Jug,0,0,0,PZJ,26,Pokret za Jug,LP,-4,Local Party,0
+SDzP,27,Sandzacka demokratska partija,0,0,0,SDzP,27,Sandzacka demokratska partija,LP,-4,Local Party,0
+GGVM,28,Grupa Gradjana Vredna Mitrovica,0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+PzLP,29,Pokret za Loznicu i Podrinje,0,0,0,PzLP,29,Pokret za Loznicu i Podrinje,LP,-4,Local Party,0
+KzP,30,Koalicija za Pirot,0,0,0,KzP,30,Koalicija za Pirot,LP,-4,Local Party,0
+SDPS,31,Socijaldemokratska partija Srbije Rasim Ljajic,0,1,1,SDPS,31,Socijaldemokratska partija Srbije Rasim Ljajic,SDPS,31,Socijaldemokratska partija Srbije Rasim Ljajic,1
+SDA,32,Stranka demokratske akcije Sandzaka,0,0,0,SDA,32,Stranka demokratske akcije Sandzaka,LP,-4,Local Party,0
+GGZROS,33,"Grupa Gradjana ""Za razvoj opstine Secanj""",0,0,0,CG,-2,Citizen Group,LP,-4,Local Party,0
+GGZZL,34,"Grupa Gradjana ""Za zivot Lapova""",0,0,0,CG,-1,Citizen Group,LP,-4,Local Party,0
+GGGJ,35,"Grupa Gradjana ""Gornja Jablanica""",0,0,0,CG,0,Citizen Group,LP,-4,Local Party,0
+GGCB,36,Grupa Gradjana Cedomir Bozic,0,0,0,CG,1,Citizen Group,LP,-4,Local Party,0
+G17+,37,G sedamnaest plus,1,0,0,G17+,37,G sedamnaest plus,G17+,37,G sedamnaest plus,1
+GGR,38,Grupa Gradjana Ravanica,0,0,0,GGR,38,Grupa Gradjana Ravanica,LP,-4,Local Party,0
+GGMS,39,Grupa Gradjana Milorad Soldatovic,0,0,0,GGMS,39,Grupa Gradjana Milorad Soldatovic,LP,-4,Local Party,0
+DSVM,40,Demokratski Savez Vojvodjanskih Madjara,0,0,0,EG,-2,Ethnic Group,LP,-4,Local Party,0

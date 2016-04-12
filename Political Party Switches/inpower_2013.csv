@@ -1,0 +1,104 @@
+,mb,party_id,name_abr,name_full
+0,70033,1,SNS,Srpska Napredna Stranka
+1,70050,1,SNS,Srpska Napredna Stranka
+2,70157,1,SNS,Srpska Napredna Stranka
+3,70211,1,SNS,Srpska Napredna Stranka
+4,70297,1,SNS,Srpska Napredna Stranka
+5,70416,1,SNS,Srpska Napredna Stranka
+6,70459,1,SNS,Srpska Napredna Stranka
+7,70637,1,SNS,Srpska Napredna Stranka
+8,70653,1,SNS,Srpska Napredna Stranka
+9,70688,1,SNS,Srpska Napredna Stranka
+10,70696,1,SNS,Srpska Napredna Stranka
+11,70726,1,SNS,Srpska Napredna Stranka
+12,71161,1,SNS,Srpska Napredna Stranka
+13,71200,1,SNS,Srpska Napredna Stranka
+14,71315,1,SNS,Srpska Napredna Stranka
+15,71340,1,SNS,Srpska Napredna Stranka
+16,79022,1,SNS,Srpska Napredna Stranka
+17,80063,1,SNS,Srpska Napredna Stranka
+18,80110,1,SNS,Srpska Napredna Stranka
+19,80152,1,SNS,Srpska Napredna Stranka
+20,80225,1,SNS,Srpska Napredna Stranka
+21,80233,1,SNS,Srpska Napredna Stranka
+22,80284,1,SNS,Srpska Napredna Stranka
+23,80306,1,SNS,Srpska Napredna Stranka
+24,80314,1,SNS,Srpska Napredna Stranka
+25,80420,1,SNS,Srpska Napredna Stranka
+26,80497,1,SNS,Srpska Napredna Stranka
+27,70068,17,SRS,Srpska Radikalna stranka
+28,70149,2,DS,Demokratska Stranka
+29,70203,2,DS,Demokratska Stranka
+30,70475,2,DS,Demokratska Stranka
+31,70483,2,DS,Demokratska Stranka
+32,70548,2,DS,Demokratska Stranka
+33,70904,2,DS,Demokratska Stranka
+34,70955,2,DS,Demokratska Stranka
+35,71102,2,DS,Demokratska Stranka
+36,71277,2,DS,Demokratska Stranka
+37,71506,2,DS,Demokratska Stranka
+38,79014,2,DS,Demokratska Stranka
+39,80039,2,DS,Demokratska Stranka
+40,80080,2,DS,Demokratska Stranka
+41,80136,2,DS,Demokratska Stranka
+42,80179,2,DS,Demokratska Stranka
+43,80209,2,DS,Demokratska Stranka
+44,80217,2,DS,Demokratska Stranka
+45,80373,2,DS,Demokratska Stranka
+46,80381,2,DS,Demokratska Stranka
+47,80411,2,DS,Demokratska Stranka
+48,80438,2,DS,Demokratska Stranka
+49,80462,2,DS,Demokratska Stranka
+50,70262,7,DSS,Demokratska stranke Srbije
+51,71226,7,DSS,Demokratska stranke Srbije
+52,71234,7,DSS,Demokratska stranke Srbije
+53,70289,3,SPS,Socijalisticka Partija Srbije
+54,70343,3,SPS,Socijalisticka Partija Srbije
+55,70360,3,SPS,Socijalisticka Partija Srbije
+56,70432,3,SPS,Socijalisticka Partija Srbije
+57,70467,3,SPS,Socijalisticka Partija Srbije
+58,70491,3,SPS,Socijalisticka Partija Srbije
+59,70521,3,SPS,Socijalisticka Partija Srbije
+60,70530,3,SPS,Socijalisticka Partija Srbije
+61,70572,3,SPS,Socijalisticka Partija Srbije
+62,70599,3,SPS,Socijalisticka Partija Srbije
+63,70700,3,SPS,Socijalisticka Partija Srbije
+64,70769,3,SPS,Socijalisticka Partija Srbije
+65,70777,3,SPS,Socijalisticka Partija Srbije
+66,70793,3,SPS,Socijalisticka Partija Srbije
+67,70831,3,SPS,Socijalisticka Partija Srbije
+68,70840,3,SPS,Socijalisticka Partija Srbije
+69,70947,3,SPS,Socijalisticka Partija Srbije
+70,71021,3,SPS,Socijalisticka Partija Srbije
+71,71137,3,SPS,Socijalisticka Partija Srbije
+72,79057,3,SPS,Socijalisticka Partija Srbije
+73,80047,3,SPS,Socijalisticka Partija Srbije
+74,80144,3,SPS,Socijalisticka Partija Srbije
+75,70378,25,SPO,Srpski pokret obnove
+76,70513,26,PZJ,Pokret za Jug
+77,70556,4,URS,Ujedinjeni Regioni Srbije
+78,70602,4,URS,Ujedinjeni Regioni Srbije
+79,70734,4,URS,Ujedinjeni Regioni Srbije
+80,70882,4,URS,Ujedinjeni Regioni Srbije
+81,71013,4,URS,Ujedinjeni Regioni Srbije
+82,71170,4,URS,Ujedinjeni Regioni Srbije
+83,71285,4,URS,Ujedinjeni Regioni Srbije
+84,71331,4,URS,Ujedinjeni Regioni Srbije
+85,70564,9,GGMZ,Grupa Gradjana Milomir Zoric
+86,70815,35,GGGJ,"Grupa Gradjana ""Gornja Jablanica"""
+87,70874,31,SDPS,Socijaldemokratska partija Srbije Rasim Ljajic
+88,70939,30,KzP,Koalicija za Pirot
+89,70963,18,DPA,Demokratska partija albanaca
+90,70980,27,SDzP,Sandzacka demokratska partija
+91,71005,15,NS,Nova Srbija
+92,71153,15,NS,Nova Srbija
+93,71242,15,NS,Nova Srbija
+94,71064,23,USS,Ujedinjena seljacka stranka
+95,71072,32,SDA,Stranka demokratske akcije Sandzaka
+96,80071,6,SVM,Savez vojvodjanskih madjara
+97,80195,6,SVM,Savez vojvodjanskih madjara
+98,80365,6,SVM,Savez vojvodjanskih madjara
+99,80446,6,SVM,Savez vojvodjanskih madjara
+100,80489,6,SVM,Savez vojvodjanskih madjara
+101,80292,39,GGMS,Grupa Gradjana Milorad Soldatovic
+102,80403,28,GGVM,Grupa Gradjana Vredna Mitrovica

@@ -1,0 +1,57 @@
+body {
+	font-family: Tahoma, Arial, "Sans Serif";
+	font-size: 0.9em;
+}
+
+div.Content {
+	margin: 0px auto;
+	width: 800px;
+}
+
+div.FloatWrap {
+	overflow: hidden;
+}
+
+div.Left {
+	float: left;
+}
+
+div.Right, div.OffsetRight {
+	float: right;
+}
+
+div.OffsetRight {
+	margin-right: 5px;
+}
+
+div.Clear {
+	clear: both;
+}
+
+/* -----| Banner |--------------------------------------------------------------- */
+div.Banner {
+}
+
+div.Banner div.Top {
+	width: 100%;
+	background-color: #ffffff;
+	margin-bottom: 4px;
+	font-size: 0.7em;
+}
+
+div.Banner div.Top a, div.Banner div.Top a:link, div.Banner div.Top a:visited,
+div.Banner div.Top a:hover, div.Banner div.Top a:active {
+	padding: 2px 5px 2px 3px;
+	color: #005699;
+}
+
+div.Banner div.Search {
+	margin-top: 3px;
+	margin-right: 5px;
+}
+
+div.Banner div.Bottom {
+	height: 33px;
+	margin-top: 4px;
+	background-color: #185dad;
+}
