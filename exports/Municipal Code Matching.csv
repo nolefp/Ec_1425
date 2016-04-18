@@ -1,0 +1,175 @@
+mun_id,mun,mun_type
+70017,Aleksandrovac,normal
+70025,Aleksinac,normal
+70033,Arandjelovac,normal
+70041,Arilje,normal
+70050,Babusnica,normal
+70068,Bajina Basta,normal
+70076,Batocina,normal
+70084,Bela Palanka,normal
+70092,Beograd-Barajevo,city-district
+70106,Beograd-Vozdovac,city-district
+70114,Beograd-Vracar,city-district
+70122,Beograd-Grocka,city-district
+70144,Beograd-Vracar (2),city-district
+70149,Beograd-Zvezdara,city-district
+70157,Beograd-Zemun,city-district
+70165,Beograd-Lazarevac,city-district
+70173,Beograd-Mladenovac,city-district
+70181,Beograd-Novi Beograd,city-district
+70190,Beograd-Obrenovac,city-district
+70203,Beograd-Palilula,city-district
+70211,Beograd-Rakovica,city-district
+70220,Beograd-Savski Venac,city-district
+70238,Beograd-Sopot,city-district
+70246,Beograd-Stari Grad,city-district
+70254,Beograd-cukarica,city-district
+70262,Blace,normal
+70289,Bogatic,normal
+70297,Bojnik,normal
+70319,Boljevac,normal
+70327,Bor,normal
+70335,Bosilegrad,normal
+70343,Brus,normal
+70351,Bujanovac,normal
+70360,Valjevo,normal
+70378,Varvarin,normal
+70386,Velika Plana,normal
+70394,Veliko Gradiste,normal
+70408,Vladimirci,normal
+70416,Vladicin Han,normal
+70424,Vlasotince,normal
+70432,Vranje,normal
+70459,Vrnjacka Banja,normal
+70467,Gadzin Han,normal
+70475,Golubac,normal
+70483,Gornji Milanovac,normal
+70491,Despotovac,normal
+70505,Dimitrovgrad,normal
+70513,Doljevac,normal
+70521,zabari,normal
+70530,zagubica,normal
+70548,zitoradja,normal
+70556,Zajecar,normal
+70564,Ivanjica,normal
+70572,Kladovo,normal
+70599,Knic,normal
+70602,Knjazevac,normal
+70629,Kosjeric,normal
+70637,Koceljeva,normal
+70645,Kragujevac - grad,city
+70653,Kraljevo,normal
+70661,Krupanj,normal
+70670,Krusevac,normal
+70688,Kursumlija,normal
+70696,Kucevo,normal
+70700, Lajkovac,normal
+70718,Lebane,normal
+70726,Leskovac,normal
+70734,Loznica,normal
+70742,Lucani,normal
+70769,Ljig,normal
+70777,Ljubovija,normal
+70785,Majdanpek,normal
+70793,Mali Zvornik,normal
+70807,Malo Crnice,normal
+70815,Medvedja,normal
+70823,Merosina,normal
+70831, Mionica,normal
+70840,Negotin,normal
+70866,Nova Varos,normal
+70874,Novi Pazar,normal
+70882,Osecina,normal
+70904,Paracin,normal
+70912,Petrovac,normal
+70939,Pirot,normal
+70947,Pozarevac,normal
+70955,Pozega,normal
+70963,Presevo,normal
+70971,Priboj,normal
+70980,Prijepolje,normal
+70998,Prokuplje,normal
+71005,Razanj,normal
+71013,Raca,normal
+71021,Raska,normal
+71030,Rekovac,normal
+71048,Jagodina,normal
+71056,Svilajnac,normal
+71064,Svrljig,normal
+71072,Sjenica,normal
+71099,Smederevo,normal
+71102,Smederevska Palanka,normal
+71129,Sokobanja,normal
+71137,Surdulica,normal
+71145,Uzice,normal
+71153,Topola,normal
+71161,Trgoviste,normal
+71170,Trstenik,normal
+71188,Tutin,normal
+71196,cicevac,normal
+71200,cuprija,normal
+71218,Ub,normal
+71226,Crna Trava,normal
+71234,cajetina,normal
+71242,cacak,normal
+71269,sabac,normal
+71277,Lapovo,normal
+71285,Nis-Niska Banja ,city-district
+71293,Beograd-Surcin,city-district
+71307,Nis-Pantelej,city-district
+71315,Nis-Crveni Krst,city-district
+71323,Nis-Palilula,city-district
+71331,Nis-Mediana,city-district
+71340,Kostolac,normal
+71358,Vranjska Banja,normal
+79014,Grad Beograd,city
+79022,Grad Nis,city
+79049,Grad Pozarevac,city
+79057,Grad Vranje,city
+80012,Ada,normal
+80039,Alibunar,normal
+80047,Apatin,normal
+80055,Bac,normal
+80063,Backa Palanka,normal
+80071,Backa Topola,normal
+80080,Backi Petrovac,normal
+80098,Bela Crkva,normal
+80101, Beocin,normal
+80110,Becej,normal
+80128,Vrsac,normal
+80136,zabalj,normal
+80144,zitiste,normal
+80152,Zrenjanin,normal
+80179,Indjija,normal
+80187,Irig,normal
+80195,Kanjiza,normal
+80209,Kikinda,normal
+80217,Kovacica,normal
+80225,Kovin,normal
+80233,Kula,normal
+80241,Mali Idjos,normal
+80250,Nova Crnja,normal
+80268,Novi Becej,normal
+80276,Novi Knezevac,normal
+80284,Novi Sad - grad (20,city
+80292,Opovo,normal
+80306,Odzaci,normal
+80314,Pancevo,normal
+80322,Pecinci,normal
+80349,Plandiste,normal
+80357,Ruma,normal
+80365,Senta,normal
+80373,Secanj,normal
+80381, Sombor,normal
+80390,Srbobran,normal
+80403,Sremska Mitrovica,normal
+80411,Sremski Karlovci,normal
+80420,Stara Pazova,normal
+80438,Subotica,normal
+80446,Temerin,normal
+80454,Titel,normal
+80462,Vrbas,normal
+80489,coka,normal
+80497,sid,normal
+80519,Petrovaradin,normal
+89010,Novi Sad-grad ,city
