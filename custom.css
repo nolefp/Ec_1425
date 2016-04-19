@@ -1,0 +1,48 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+@import url('http://fonts.googleapis.com/css?family=Lato:200');
+@import url('http://fonts.googleapis.com/css?family=Lato:300');
+@import url('http://fonts.googleapis.com/css?family=Lato:400');
+
+
+div.wider {    
+    margin-left: -100px;
+    margin-right: -100px;
+}
+
+
+div.text_cell {
+    max-width: 105ex; /* instead of 100%, */
+
+}
+
+
+div.text_cell_render {
+    font-family: palatino;
+    font-size: 12pt;
+    line-height: 145%; /* added for some line spacing of text. */
+}
+div.text_cell_render h1,
+div.text_cell_render h2,
+div.text_cell_render h3,
+div.text_cell_render h4,
+div.text_cell_render h5, 
+div.text_cell_render h6 {
+    font-family: palatino, 'HelveticaNeue-Light';
+    font-weight: 300;
+}
+
+div.rendered_html h1, 
+div.rendered_html h2, 
+div.rendered_html h3, 
+div.rendered_html h4,
+div.rendered_html h5, 
+div.rendered_html h6 {
+    font-family: palatino, 'HelveticaNeue-Light';
+    font-weight: 300;
+} 
