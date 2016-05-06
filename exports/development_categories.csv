@@ -1,0 +1,175 @@
+mun_id,mun,cat_10,dev_10,cat_dev_10
+70831, Mionica,four,devastated,devastated
+80039,Alibunar,four,not_devastated,four
+70050,Babusnica,four,devastated,devastated
+80098,Bela Crkva,four,not_devastated,four
+70084,Bela Palanka,four,devastated,devastated
+70262,Blace,four,devastated,devastated
+70297,Bojnik,four,devastated,devastated
+70335,Bosilegrad,four,devastated,devastated
+70343,Brus,four,not_devastated,four
+70351,Bujanovac,four,not_devastated,four
+71226,Crna Trava,four,devastated,devastated
+80250,Nova Crnja,four,devastated,devastated
+70882,Osecina,four,devastated,devastated
+70912,Petrovac,four,not_devastated,four
+80349,Plandiste,four,devastated,devastated
+70963,Presevo,four,devastated,devastated
+70980,Prijepolje,four,devastated,devastated
+71013,Raca,four,devastated,devastated
+71005,Razanj,four,devastated,devastated
+71030,Rekovac,four,devastated,devastated
+71072,Sjenica,four,devastated,devastated
+71137,Surdulica,four,not_devastated,four
+71064,Svrljig,four,devastated,devastated
+71161,Trgoviste,four,devastated,devastated
+71188,Tutin,four,devastated,devastated
+70378,Varvarin,four,devastated,devastated
+80101, Beocin,one,not_devastated,one
+70700, Lajkovac,one,not_devastated,one
+80381, Sombor,one,not_devastated,one
+80047,Apatin,one,not_devastated,one
+70041,Arilje,one,not_devastated,one
+80063,Backa Palanka,one,not_devastated,one
+80071,Backa Topola,one,not_devastated,one
+80110,Becej,one,not_devastated,one
+70092,Beograd-Barajevo,one,not_devastated,one
+70254,Beograd-cukarica,one,not_devastated,one
+70122,Beograd-Grocka,one,not_devastated,one
+70165,Beograd-Lazarevac,one,not_devastated,one
+70173,Beograd-Mladenovac,one,not_devastated,one
+70181,Beograd-Novi Beograd,one,not_devastated,one
+70190,Beograd-Obrenovac,one,not_devastated,one
+70203,Beograd-Palilula,one,not_devastated,one
+70211,Beograd-Rakovica,one,not_devastated,one
+70220,Beograd-Savski Venac,one,not_devastated,one
+70238,Beograd-Sopot,one,not_devastated,one
+70246,Beograd-Stari Grad,one,not_devastated,one
+71293,Beograd-Surcin,one,not_devastated,one
+70106,Beograd-Vozdovac,one,not_devastated,one
+70114,Beograd-Vracar,one,not_devastated,one
+70144,Beograd-Vracar (2),one,not_devastated,one
+70157,Beograd-Zemun,one,not_devastated,one
+70149,Beograd-Zvezdara,one,not_devastated,one
+71242,cacak,one,not_devastated,one
+71234,cajetina,one,not_devastated,one
+70483,Gornji Milanovac,one,not_devastated,one
+80179,Indjija,one,not_devastated,one
+71048,Jagodina,one,not_devastated,one
+80195,Kanjiza,one,not_devastated,one
+80209,Kikinda,one,not_devastated,one
+70629,Kosjeric,one,not_devastated,one
+70645,Kragujevac - grad,one,not_devastated,one
+70670,Krusevac,one,not_devastated,one
+80233,Kula,one,not_devastated,one
+71315,Nis-Crveni Krst,one,not_devastated,one
+71331,Nis-Mediana,one,not_devastated,one
+71285,Nis-Niska Banja ,one,not_devastated,one
+71323,Nis-Palilula,one,not_devastated,one
+71307,Nis-Pantelej,one,not_devastated,one
+80284,Novi Sad - grad (20,one,not_devastated,one
+89010,Novi Sad-grad ,one,not_devastated,one
+80314,Pancevo,one,not_devastated,one
+80322,Pecinci,one,not_devastated,one
+70939,Pirot,one,not_devastated,one
+70947,Pozarevac,one,not_devastated,one
+71269,sabac,one,not_devastated,one
+80365,Senta,one,not_devastated,one
+71099,Smederevo,one,not_devastated,one
+80403,Sremska Mitrovica,one,not_devastated,one
+80411,Sremski Karlovci,one,not_devastated,one
+80420,Stara Pazova,one,not_devastated,one
+80438,Subotica,one,not_devastated,one
+80446,Temerin,one,not_devastated,one
+71145,Uzice,one,not_devastated,one
+70360,Valjevo,one,not_devastated,one
+80462,Vrbas,one,not_devastated,one
+70459,Vrnjacka Banja,one,not_devastated,one
+80128,Vrsac,one,not_devastated,one
+80152,Zrenjanin,one,not_devastated,one
+70025,Aleksinac,three,not_devastated,three
+70033,Arandjelovac,three,not_devastated,three
+70068,Bajina Basta,three,not_devastated,three
+70076,Batocina,three,not_devastated,three
+70289,Bogatic,three,not_devastated,three
+70319,Boljevac,three,not_devastated,three
+71196,cicevac,three,not_devastated,three
+80489,coka,three,not_devastated,three
+70491,Despotovac,three,not_devastated,three
+70505,Dimitrovgrad,three,not_devastated,three
+80187,Irig,three,not_devastated,three
+70564,Ivanjica,three,not_devastated,three
+70637,Koceljeva,three,not_devastated,three
+80217,Kovacica,three,not_devastated,three
+80225,Kovin,three,not_devastated,three
+70726,Leskovac,three,not_devastated,three
+70769,Ljig,three,not_devastated,three
+70785,Majdanpek,three,not_devastated,three
+80241,Mali Idjos,three,not_devastated,three
+70840,Negotin,three,not_devastated,three
+70866,Nova Varos,three,not_devastated,three
+70874,Novi Pazar,three,not_devastated,three
+80292,Opovo,three,not_devastated,three
+70971,Priboj,three,not_devastated,three
+70998,Prokuplje,three,not_devastated,three
+71021,Raska,three,not_devastated,three
+80373,Secanj,three,not_devastated,three
+71102,Smederevska Palanka,three,not_devastated,three
+80390,Srbobran,three,not_devastated,three
+71056,Svilajnac,three,not_devastated,three
+71170,Trstenik,three,not_devastated,three
+71218,Ub,three,not_devastated,three
+70386,Velika Plana,three,not_devastated,three
+70394,Veliko Gradiste,three,not_devastated,three
+70408,Vladimirci,three,not_devastated,three
+80136,zabalj,three,not_devastated,three
+80012,Ada,two,not_devastated,two
+70017,Aleksandrovac,two,not_devastated,two
+80055,Bac,two,not_devastated,two
+80080,Backi Petrovac,two,not_devastated,two
+70327,Bor,two,not_devastated,two
+71200,cuprija,two,not_devastated,two
+70572,Kladovo,two,not_devastated,two
+70653,Kraljevo,two,not_devastated,two
+71277,Lapovo,two,not_devastated,two
+70734,Loznica,two,not_devastated,two
+70742,Lucani,two,not_devastated,two
+80268,Novi Becej,two,not_devastated,two
+80276,Novi Knezevac,two,not_devastated,two
+80306,Odzaci,two,not_devastated,two
+70904,Paracin,two,not_devastated,two
+70955,Pozega,two,not_devastated,two
+80357,Ruma,two,not_devastated,two
+80497,sid,two,not_devastated,two
+71129,Sokobanja,two,not_devastated,two
+80454,Titel,two,not_devastated,two
+71153,Topola,two,not_devastated,two
+70432,Vranje,two,not_devastated,two
+70556,Zajecar,two,not_devastated,two
+70513,Doljevac,devastated,devastated,devastated
+70467,Gadzin Han,devastated,devastated,devastated
+70475,Golubac,devastated,devastated,devastated
+79014,Grad Beograd,one,not_devastated,one
+79022,Grad Nis,one,not_devastated,one
+79049,Grad Pozarevac,one,not_devastated,one
+79057,Grad Vranje,two,not_devastated,two
+70599,Knic,devastated,devastated,devastated
+70602,Knjazevac,four,not_devastated,four
+71340,Kostolac,missing,not_devastated,missing
+70661,Krupanj,devastated,devastated,devastated
+70696,Kucevo,devastated,devastated,devastated
+70688,Kursumlija,devastated,devastated,devastated
+70718,Lebane,devastated,devastated,devastated
+70777,Ljubovija,devastated,devastated,devastated
+70793,Mali Zvornik,devastated,devastated,devastated
+70807,Malo Crnice,devastated,devastated,devastated
+70815,Medvedja,devastated,devastated,devastated
+70823,Merosina,devastated,devastated,devastated
+80519,Petrovaradin,missing,not_devastated,missing
+70416,Vladicin Han,devastated,devastated,devastated
+70424,Vlasotince,devastated,devastated,devastated
+71358,Vranjska Banja,missing,not_devastated,missing
+70521,zabari,devastated,devastated,devastated
+70530,zagubica,devastated,devastated,devastated
+80144,zitiste,devastated,devastated,devastated
+70548,zitoradja,devastated,devastated,devastated

@@ -1,0 +1,449 @@
+,mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,prior_party_id,prior_party_name,date
+0,70017,Aleksandrovac,0.0,1.0,1.0,Jugoslav Stajkovac,46,GGZBZ,4.0,URS,2-Jun-2014
+1,70017,Aleksandrovac,1.0,1.0,1.0,Jugoslav Stajkovac,4,URS,47.0,GGPZZ,24-Aug-2013
+2,70017,Aleksandrovac,1.0,1.0,0.0,Dragan Blagojevic,1,SNS,,,20-Mar-2013
+3,70017,Aleksandrovac,1.0,0.0,1.0,Dragan Blagojevic,1,SNS,,,17-Sep-2012
+4,70017,Aleksandrovac,1.0,0.0,1.0,Jugoslav Stajkovac,47,GGPZZ,,,5-Sep-2012
+5,70017,Aleksandrovac,1.0,0.0,1.0,Zoran Bojovic,1,SNS,,,1-Jun-2012
+6,70017,Aleksandrovac,1.0,1.0,0.0,Jugoslav Stajkovac,47,GGPZZ,,,20-May-2012
+7,70017,Aleksandrovac,1.0,1.0,0.0,Jugoslav Stajkovac,47,GGPZZ,,,1-Jul-2008
+8,70025,Aleksinac,1.0,0.0,1.0,Nenad Stankovic,1,SNS,,,24-Jul-2012
+9,70025,Aleksinac,1.0,0.0,,Ivan Dimic,7,DSS,,,15-Dec-2008
+10,70033,Arandjelovac,1.0,0.0,1.0,Bojan Radovic,1,SNS,2.0,DS,29-Aug-2012
+11,70033,Arandjelovac,1.0,0.0,1.0,Vlada Gajic,2,DS,17.0,SRS,23-May-2008
+12,70041,Arilje,1.0,0.0,1.0,Milan Nikolic,17,SRS,,,26-Jun-2015
+13,70041,Arilje,1.0,0.0,1.0,Zoran Todorovic,1,SNS,,,31-May-2012
+14,70041,Arilje,1.0,1.0,0.0,Mirjana Avakumic,2,DS,,,10-May-2008
+15,70050,Babusnica,1.0,0.0,1.0,Sasa Stamenkovic,1,SNS,3.0,SPS,6-Aug-2012
+16,70050,Babusnica,1.0,,,Zlatko Arsic,3,SPS,,,20-May-2008
+17,70068,Bajina Basta,1.0,0.0,1.0,Radomir Filipovic,1,SNS,17.0,SRS,25-Mar-2014
+18,70068,Bajina Basta,1.0,0.0,0.0,Zlatan Jovanovic,17,SRS,17.0,SRS,6-Jun-2011
+19,70076,Batocina,1.0,1.0,0.0,Radisa Milosevic,2,DS,,,1-Aug-2012
+20,70076,Batocina,1.0,1.0,0.0,Radisa MIlosevic,2,DS,,,28-May-2008
+21,70084,Bela Palanka,0.0,1.0,1.0,Goran Miljkovic,19,SDS,2.0,DS,9-Feb-2014
+22,70084,Bela Palanka,1.0,0.0,1.0,Goran Miljkovic,2,DS,,,6-Jun-2012
+23,70084,Bela Palanka,1.0,0.0,,Aleksandar Zivkovic,3,SPS,,,5-Jul-2008
+28,70149,Beograd-Zvezdara,1.0,1.0,0.0,Edip Serifov,2,DS,2.0,DS,11-Jun-2014
+29,70149,Beograd-Zvezdara,1.0,0.0,0.0,Edip Serifov,2,DS,2.0,DS,15-May-2012
+30,70149,Beograd-Zvezdara,1.0,,,Milan Popovic,2,DS,,,9-Jul-2008
+31,70157,Beograd-Zemun,1.0,0.0,0.0,Dejan Matic,1,SNS,1.0,SNS,4-Jul-2013
+32,70157,Beograd-Zemun,1.0,0.0,1.0,Branislav Prostran,1,SNS,17.0,SRS,21-Jul-2009
+37,70203,Beograd-Palilula,1.0,0.0,0.0,Stojan Nikolic,2,DS,2.0,DS,10-Jun-2012
+38,70203,Beograd-Palilula,1.0,,,Danilo Basic,2,DS,,,15-Jul-2008
+39,70211,Beograd-Rakovica,1.0,0.0,0.0,Vladan Kocic,1,SNS,1.0,SNS,10-Jun-2014
+40,70211,Beograd-Rakovica,1.0,0.0,1.0,Milosav Milickovic,1,SNS,2.0,DS,5-Jul-2012
+41,70211,Beograd-Rakovica,1.0,1.0,0.0,Bojan Milic,2,DS,2.0,DS,13-Jul-2008
+46,70262,Blace,1.0,0.0,1.0,Ivan Burgic,1,SNS,7.0,DSS,20-Jun-2014
+47,70262,Blace,1.0,0.0,1.0,Radoje Krstovic,7,DSS,2.0,DS,6-Mar-2012
+48,70262,Blace,1.0,,,Nebojsa Milosavljevic,2,DS,,,11-Jul-2008
+49,70289,Bogatic,1.0,0.0,1.0,Nenad Beserovac,3,SPS,2.0,DS,15-May-2012
+50,70289,Bogatic,1.0,,,Slobodan Savic,2,DS,,,1-Jul-2008
+51,70297,Bojnik,1.0,0.0,1.0,Ivan Stanojevic,1,SNS,2.0,DS,5-Jun-2012
+52,70297,Bojnik,1.0,0.0,1.0,Nebojsa Nenadovic,2,DS,17.0,SRS,20-Dec-2008
+53,70319,Boljevac,0.0,1.0,1.0,Nebojsa Marjanovic,1,SNS,4.0,URS,1-Jul-2014
+54,70319,Boljevac,1.0,1.0,0.0,Nebojsa Marjanovic,4,URS,,,6-May-2012
+55,70319,Boljevac,0.0,1.0,0.0,Nebojsa Marjanovic,4,URS,,,7-Dec-2010
+56,70327,Bor,1.0,0.0,0.0,Zivorad Petrovic,1,SNS,,,10-Apr-2014
+57,70327,Bor,1.0,0.0,1.0,Sasa Vukadinovic,1,SNS,,,5-Jun-2013
+58,70327,Bor,1.0,1.0,0.0,Nebojsa VIdenovic,4,URS,,,18-May-2012
+59,70327,Bor,1.0,,,Nebojsa Videnovic,4,URS,,,22-May-2008
+60,70335,Bosilegrad,1.0,1.0,0.0,Vladimir Zaharijev,7,DSS,,,17-Mar-2014
+61,70335,Bosilegrad,1.0,1.0,0.0,Vladimir Zaharijev,7,DSS,,,28-May-2012
+62,70335,Bosilegrad,1.0,1.0,0.0,Vladimir Zaharijev,7,DSS,,,29-May-2008
+63,70343,Brus,1.0,0.0,1.0,Milutin Jelicic,15,NS,1.0,SNS,24-Mar-2015
+64,70343,Brus,1.0,0.0,1.0,Slobodan Vidojevic,1,SNS,3.0,SPS,21-Aug-2013
+65,70343,Brus,1.0,0.0,1.0,Zoran Obradovic,3,SPS,15.0,NS,7-Jun-2012
+66,70343,Brus,1.0,,,Zoran Sljivic,15,NS,,,1-Jun-2008
+67,70351,Bujanovac,1.0,0.0,1.0,Nagip Arifi,48,DP,,,8-May-2012
+68,70351,Bujanovac,1.0,,,Saip Kamberi,49,PDD,,,31-May-2008
+69,70360,Valjevo,1.0,1.0,0.0,Stanko Terzic,3,SPS,3.0,SPS,21-Jun-2014
+70,70360,Valjevo,1.0,0.0,1.0,Stanko Terzic,3,SPS,3.0,SPs,29-May-2012
+71,70360,Valjevo,1.0,0.0,1.0,Zoran Jakovljevic,2,DS,7.0,DSS,1-Aug-2008
+72,70378,Varvarin,1.0,1.0,0.0,Zoran Milenkovic,25,SPO,25.0,SPO,6-May-2012
+73,70378,Varvarin,1.0,1.0,0.0,Zoran Milenkovic,25,SPO,,,7-Jul-2008
+74,70386,Velika Plana,1.0,0.0,1.0,Igor Matkovic,1,SNS,,,22-Aug-2015
+75,70386,Velika Plana,1.0,1.0,0.0,Dejan Sulkic,7,DSS,,,15-May-2012
+76,70386,Velika Plana,1.0,1.0,0.0,Dejan Sulkic,7,DSS,,,1-Jun-2008
+77,70394,Veliko Gradiste,0.0,1.0,1.0,Dragan Milic,1,SNS,44.0,GGDM,7-Mar-2016
+78,70394,Veliko Gradiste,1.0,1.0,0.0,Dragan Milic,44,GGDM,,,23-May-2012
+79,70394,Veliko Gradiste,1.0,0.0,1.0,Dragan Milic,44,GGDM,,,10-Oct-2010
+80,70408,Vladimirci,1.0,0.0,1.0,Milinkovic Milorad,1,SNS,,,17-Jun-2015
+81,70408,Vladimirci,1.0,0.0,1.0,Dragan Simeunovic,3,SPS,,,17-Mar-2015
+82,70408,Vladimirci,1.0,1.0,0.0,Vladica Markovic,2,DS,,,3-Jul-2012
+83,70408,Vladimirci,1.0,0.0,1.0,Vladica Markovic,2,DS,,,17-Jun-2010
+84,70416,Vladicin Han,1.0,0.0,0.0,Branislav Tosic,1,SNS,1.0,SNS,11-Nov-2014
+85,70416,Vladicin Han,1.0,0.0,1.0,Goran Mladenovic,1,SNS,2.0,DS,4-Jul-2012
+86,70416,Vladicin Han,1.0,,,Nenad Mitrovic,2,DS,,,8-Jul-2008
+87,70424,Vlasotince,1.0,0.0,1.0,Zoran Todorovic,1,SNS,,,28-Sep-2015
+88,70424,Vlasotince,1.0,0.0,1.0,Miroslav Ljubenovic,11,PS,,,30-Nov-2014
+89,70424,Vlasotince,1.0,0.0,1.0,Zoran Todorovic,1,SNS,,,29-Dec-2013
+90,70424,Vlasotince,1.0,0.0,1.0,Nebojsa Stojanovic,3,SPS,,,6-Jun-2012
+91,70424,Vlasotince,1.0,,,Srdjan Susilic,2,DS,,,1-Jun-2008
+92,70432,Vranje,1.0,0.0,0.0,Zoran Antic,3,SPS,3.0,SPS,1-Jul-2012
+93,70432,Vranje,1.0,1.0,0.0,Miroljub Stojcic,3,SPS,3.0,SPS,2-Jun-2008
+94,70459,Vrnjacka Banja,1.0,0.0,1.0,Boban Djurovic,1,SNS,2.0,SNS,21-Aug-2012
+95,70459,Vrnjacka Banja,1.0,,,Zoran Seizovic,2,DS,,,14-May-2008
+96,70467,Gadzin Han,1.0,1.0,0.0,Sasa Djordjevic,3,SPS,3.0,SPS,8-May-2012
+97,70467,Gadzin Han,1.0,1.0,,Sasa Djordjevic,3,SPS,,,25-May-2008
+98,70475,Golubac,1.0,0.0,1.0,Nebojsa Mijovic,1,SNS,2.0,DS,25-Oct-2014
+99,70475,Golubac,1.0,1.0,0.0,Zoran Pajkic,2,DS,2.0,DS,6-Jun-2010
+100,70483,Gornji Milanovac,1.0,0.0,1.0,Milisav Mirkovic,2,DS,3.0,SPS,6-May-2012
+101,70483,Gornji Milanovac,1.0,1.0,0.0,Drazimir Marusic,3,SPS,3.0,SPS,5-May-2008
+102,70491,Despotovac,1.0,0.0,1.0,Dejan Nenadovic,3,SPS,2.0,DS,10-Jan-2013
+103,70491,Despotovac,1.0,1.0,0.0,Malisa Alimpijevic,2,DS,2.0,DS,21-May-2012
+104,70491,Despotovac,1.0,0.0,,Malisa Alimpijevic,2,DS,,,1-Jun-2010
+105,70505,Dimitrovgrad,1.0,0.0,1.0,Zoran Djurov,1,SNS,,,27-Jan-2015
+106,70505,Dimitrovgrad,1.0,0.0,1.0,Nebojsa Ivanov,42,DPB,,,24-Apr-2013
+107,70505,Dimitrovgrad,1.0,1.0,0.0,Vladica Dimitrov,2,DS,,,20-May-2012
+108,70505,Dimitrovgrad,1.0,0.0,0.0,Vladica Dimitrov,2,DS,,,15-Dec-2011
+109,70513,Doljevac,0.0,1.0,1.0,Goran Ljubic,1,SNS,26.0,PZJ,13-Feb-2016
+110,70513,Doljevac,1.0,1.0,0.0,Goran Ljubic,26,PZJ,26.0,PZJ,10-May-2012
+111,70513,Doljevac,1.0,1.0,,Goran Ljubic,26,PZJ,,,17-May-2008
+112,70521,Zabari,1.0,1.0,0.0,Miodrag Filipovic,3,SPS,3.0,SPS,5-Jun-2014
+113,70521,Zabari,1.0,1.0,0.0,Miodrag Filipovic,3,SPS,3.0,SPS,17-May-2012
+114,70521,Zabari,1.0,,,Miodrag Filipovic,3,SPS,,,1-Jul-2008
+115,70530,zagubica,1.0,0.0,0.0,Safet Pavlovic,3,SPS,3.0,SPS,28-Mar-2013
+116,70530,zagubica,1.0,0.0,1.0,Sasa Ognjanovic,3,SPS,4.0,URS,7-Jun-2012
+117,70530,zagubica,1.0,,,Dragi Damnjanovic,4,URS,,,3-Jul-2008
+118,70548,Zitoradja,0.0,0.0,0.0,Sinisa Ilic ,1,SNS,1.0,SNS,5-Jun-2015
+119,70548,Zitoradja,1.0,0.0,1.0,Sladjan Mladenovic,1,SNS,19.0,SDS,2-Jan-2015
+120,70548,Zitoradja,1.0,0.0,1.0,Goran Stojkovic,19,SDS,2.0,DS,1-Jun-2014
+121,70548,Zitoradja,1.0,0.0,1.0,Miodrag Petrovic,2,DS,3.0,SPS,9-Mar-2011
+122,70556,Zajecar,1.0,0.0,1.0,Velimir Ognjanovic,1,SNS,4.0,URS,5-Aug-2013
+123,70556,Zajecar,1.0,1.0,0.0,Bosko Nicic,4,URS,4.0,URS,10-Jul-2012
+124,70556,Zajecar,1.0,0.0,1.0,Bosko Nicic,4,URS,2.0,DS,1-May-2008
+125,70564,Ivanjica,1.0,0.0,1.0,Milomir Zoric,9,GGMZ,10.0,GGZI,27-Jul-2012
+126,70564,Ivanjica,1.0,0.0,0.0,Radomir Ristic,10,GGZI,10.0,GGZI,12-May-2009
+127,70572,Kladovo,0.0,0.0,1.0,Dragan Budujkic,1,SNS,3.0,SPS,29-May-2015
+128,70572,Kladovo,1.0,0.0,1.0,Radovan Arezina,3,SPS,2.0,DS,16-Apr-2008
+129,70599,Knic,1.0,0.0,1.0,Ljubomir Djurdjevic,13,JS,3.0,SPS,4-Mar-2014
+130,70599,Knic,1.0,0.0,1.0,Dragana Jovanovic,3,SPS,2.0,DS,7-May-2012
+131,70599,Knic,1.0,,,Borislav Busarac,2,DS,,,5-May-2008
+132,70688,Kursumlija,1.0,1.0,1.0,Radoljub Vidic,1,SNS,7.0,DSS,17-Jul-2012
+133,70688,Kursumlija,1.0,0.0,1.0,Goran Bojovic,15,NS,2.0,DS,1-Aug-2009
+134,70602,Knjazevac,0.0,1.0,1.0,Milan Djokic,-1,Nejasna,4.0,URS,2-Jun-2014
+135,70602,Knjazevac,1.0,0.0,1.0,Milan Djokic,4,URS,2.0,DS,14-Jul-2012
+136,70602,Knjazevac,1.0,,,Mladen Radosavljevic,2,DS,,,20-May-2008
+137,70629,Kosjeric,1.0,0.0,1.0,Milan Stojanic,1,SNS,,,24-Oct-2012
+138,70629,Kosjeric,1.0,0.0,1.0,Dragan Vujadinovic,2,DS,,,10-Nov-2009
+139,70637,Koceljeva,1.0,0.0,0.0,Dusan Ilincic,1,SNS,1.0,SNS,9-Oct-2014
+140,70637,Koceljeva,0.0,1.0,1.0,Veroljub Matic,1,SNS,8.0,GGVM,24-Jun-2013
+141,70637,Koceljeva,1.0,1.0,0.0,Veroljub Matic,8,GGVM,8.0,GGVM,1-Jun-2012
+142,70637,Koceljeva,1.0,,,Veroljub Matic,8,GGzVM,,,11-May-2008
+143,70645,Kragujevac - grad,1.0,0.0,1.0,Radomir Nikolic,1,SNS,,,28-Oct-2014
+144,70645,Kragujevac - grad,1.0,1.0,0.0,Veroljub Stevanovic,4,URS,,,22-May-2012
+145,70645,Kragujevac - grad,1.0,0.0,1.0,Veroljub Stevanovic,41,ZzKG,,,28-Apr-2008
+146,70653,Kraljevo,0.0,1.0,1.0,Tomislav Ilic,1,SNS,15.0,NS,5-Jan-2016
+147,70653,Kraljevo,1.0,0.0,1.0,Tomislav Ilic,15,NS,1.0,SNS,20-Jun-2014
+148,70653,Kraljevo,1.0,0.0,1.0,Dragan Jovanovic,1,SNS,2.0,DS,27-Jul-2012
+149,70653,Kraljevo,1.0,1.0,0.0,Ljubisa Simovic,2,DS,2.0,DS,20-Jul-2010
+150,70661,Krupanj,1.0,0.0,1.0,Rade Grujic,3,SPS,,,8-Mar-2013
+151,70661,Krupanj,1.0,0.0,1.0,Nenad Vasiljevic,2,DS,,,22-Jun-2012
+152,70661,Krupanj,1.0,,,Savo Doric,15,NS,,,1-Jun-2008
+153,70670,Krusevac,1.0,0.0,1.0,Dragi Nestorovic,1,SNS,,,30-Apr-2014
+154,70670,Krusevac,1.0,0.0,0.0,Bratislav Gasic,1,SNS,,,20-Jun-2012
+155,70670,Krusevac,1.0,0.0,1.0,Dragan Jovanovic,2,DS,,,5-May-2008
+156,70696,Kucevo,1.0,0.0,0.0,Novica Janosevic,1,SNS,1.0,SNS,28-Apr-2014
+157,70696,Kucevo,1.0,1.0,0.0,Zoran Milekic,1,SNS,1.0,SNS,15-Jul-2012
+158,70696,Kucevo,1.0,1.0,,Zoran Milekic,1,SNS,,,18-May-2008
+159,70700,Lajkovac,0.0,1.0,1.0,Zivorad Bojicic,11,PS,3.0,SPS,5-Oct-2015
+160,70700,Lajkovac,1.0,0.0,1.0,Zivorad Bojicic,3,SPS,7.0,DSS,1-Aug-2012
+161,70700,Lajkovac,1.0,1.0,0.0,Dusan Zivanovic,7,DSS,7.0,DSS,5-Jun-2008
+162,70718,Lebane,1.0,0.0,1.0,Goran Janjic,1,SNS,,,24-Dec-2013
+163,70718,Lebane,1.0,0.0,1.0,Zoran Lilic,4,URS,,,1-Feb-2013
+164,70718,Lebane,1.0,1.0,0.0,Mica Stankovic,2,DS,,,6-May-2012
+165,70718,Lebane,1.0,1.0,0.0,Mica Stankovic,2,DS,,,21-May-2008
+166,70726,Leskovac,1.0,0.0,1.0,Goran Cvetanovic,1,SNS,2.0,DS,1-Nov-2012
+167,70726,Leskovac,1.0,0.0,1.0,Slobodan Kocic,2,DS,17.0,SRS,5-Mar-2009
+168,71056,Svilajnac,0.0,1.0,1.0,Predrag Milanovic,19,SDS,2.0,DS,18-Jul-2014
+169,71056,Svilajnac,1.0,0.0,1.0,Predrag Milanovic,2,DS,4.0,URS,26-May-2012
+170,71056,Svilajnac,1.0,,,Gorica Dimcic-Tasic,4,URS,,,25-May-2008
+171,70734,Loznica,1.0,1.0,1.0,Vidoje Petrovic,1,SNS,29.0,PzLP,8-Jun-2015
+172,70734,Loznica,1.0,1.0,1.0,Vidoje Petrovic,29,PzLP,4.0,URS,29-May-2014
+173,70734,Loznica,1.0,1.0,0.0,Vidoje Petrovic,4,URS,4.0,URS,10-May-2012
+174,70734,Loznica,1.0,1.0,,Vidoje Petrovic,4,URS,,,3-Jul-2008
+175,70742,Lucani,1.0,0.0,1.0,Vesna Stambolic,1,SNS,,,26-Feb-2015
+176,70742,Lucani,1.0,0.0,1.0,Mladomir Sretenovic,2,DS,,,20-May-2012
+177,70742,Lucani,1.0,,,Slobodan Jolovic,3,SPS,,,1-Jun-2008
+178,70769,Ljig,1.0,0.0,1.0,Dragan Lazarevic,1,SNS,3.0,SPS,28-Apr-2014
+179,70769,Ljig,1.0,0.0,1.0,Miodrag Starcevic,3,SPS,15.0,NS,21-Jun-2012
+180,70769,Ljig,1.0,,,Miroslav Maksimovic,15,NS,,,30-May-2008
+181,70777,Ljubovija,1.0,0.0,0.0,Miroslav Micic,3,SPS,3.0,SPS,30-Apr-2013
+182,70777,Ljubovija,1.0,0.0,0.0,Milovan Kovacevic,3,SPS,3.0,SPS,15-Apr-2013
+183,70777,Ljubovija,1.0,0.0,0.0,Miroslav Micic,3,SPS,3.0,SPS,18-Jul-2012
+184,70777,Ljubovija,1.0,,,Milovan Kovacevic,3,SPS,,,22-May-2008
+185,70785,Majdanpek,1.0,1.0,0.0,Dejan Vagner,1,SNS,,,7-Nov-2014
+186,70785,Majdanpek,1.0,0.0,1.0,Dejan Vagner,1,SNS,,,19-Jul-2013
+187,70785,Majdanpek,1.0,1.0,0.0,Dragan Popovic,2,DS,,,8-May-2012
+188,70785,Majdanpek,1.0,,,Dragan Popovic,2,DS,,,1-Jun-2008
+189,70793,Mali Zvornik,1.0,0.0,1.0,Zoran Jevtic,1,SNS,3.0,SPS,28-Nov-2014
+190,70793,Mali Zvornik,1.0,0.0,1.0,Miodrag Lazic,3,SPS,2.0,DS,20-Oct-2010
+191,70807,Malo Crnice,1.0,0.0,1.0,Dragan Mitic,3,SPS,,,10-Dec-2012
+192,70807,Malo Crnice,1.0,1.0,0.0,Esidol Peric,2,DS,,,7-Jun-2012
+193,70807,Malo Crnice,1.0,1.0,0.0,Esidol Peric,2,DS,,,1-Jul-2008
+194,70815,Medvedja,1.0,0.0,1.0,Nebojsa Arsic,1,SNS,35.0,GGGJ,12-Nov-2015
+195,70815,Medvedja,1.0,1.0,0.0,Slobodan Draskovic,35,GGGJ,3.0,SPS,1-Dec-2010
+196,70823,Merosina,1.0,0.0,1.0,Bojan Nesic,1,SNS,,,7-Nov-2013
+197,70823,Merosina,1.0,0.0,1.0,Sanja Stajic,4,URS,,,25-Dec-2012
+198,70823,Merosina,1.0,1.0,0.0,Slobodan Todorovic,3,SPS,,,1-Jun-2012
+199,70823,Merosina,1.0,,,Slobodan Todorovic,3,SPS,,,23-May-2008
+200,70831,Mionica,1.0,0.0,1.0,Boban Jankovic,1,SNS,3.0,SPS,22-Jan-2015
+201,70831,Mionica,1.0,0.0,1.0,Dragan Gavrilovic,3,SPS,15.0,NS,13-Jun-2012
+202,70831,Mionica,1.0,,,Milan Matic,15,NS,,,8-Jul-2008
+203,70840,Negotin,1.0,0.0,1.0,Jovan Milovanovic,1,SNS,3.0,SPS,15-May-2014
+204,70840,Negotin,1.0,0.0,1.0,Milan Urkovic,3,SPS,2.0,DS,21-Sep-2012
+205,70840,Negotin,1.0,,,Vlajko Djordjevic,2,DS,,,11-May-2010
+206,70866,Nova Varos,0.0,0.0,0.0,Ivan Mladenovic,1,SNS,,,29-Feb-2016
+207,70866,Nova Varos,1.0,0.0,1.0,Dimitrije Paunovic,1,SNS,,,5-Jul-2012
+208,70866,Nova Varos,1.0,,,Slavisa Puric,2,DS,,,22-May-2008
+209,70874,Novi Pazar,1.0,0.0,0.0,Dr.Meho Mahmutovic,31,SDPS,32.0,SDA,14-Sep-2009
+210,70882,Osecina,0.0,1.0,1.0,Nenad Stevanovic,1,SNS,4.0,URS,18-Aug-2015
+211,70882,Osecina,1.0,1.0,1.0,Nenad Stevanovic,4,URS,37.0,G17+,29-May-2012
+212,70882,Osecina,1.0,0.0,,Nenad Stevanovic,37,G17+,,,6-May-2008
+213,70904,Paracin,1.0,1.0,0.0,Sasa Paunovic,2,DS,2.0,DS,29-May-2012
+214,70904,Paracin,1.0,1.0,,Sasa Paunovic,2,DS,,,20-May-2008
+215,70912,Petrovac,1.0,1.0,0.0,Radisa Dragojevic,3,SPS,,,15-May-2012
+216,70912,Petrovac,1.0,1.0,0.0,Radisa Dragojevic,3,SPS,,,15-May-2008
+217,70939,Pirot,1.0,1.0,0.0,Vladan Vasic,30,KzP,30.0,KzP,1-Jun-2012
+218,70939,Pirot,1.0,1.0,,Vladan Vasic,30,KzP,,,27-May-2008
+219,70947,Grad Pozarevac,1.0,0.0,1.0,Miomir Ilic,3,SPS,2.0,DS,1-Feb-2013
+220,70947,Grad Pozarevac,1.0,0.0,1.0,Miodrag Milosavljevic,2,DS,7.0,DSS,24-Jun-2011
+221,70955,Pozega,1.0,0.0,1.0,Milan Bozic,1,SNS,2.0,DS,22-Oct-2015
+222,70955,Pozega,1.0,1.0,0.0,Milovan Micovic,2,DS,2.0,DS,10-May-2012
+223,70955,Pozega,1.0,0.0,,Milovan Micovic,2,DS,,,25-May-2008
+224,70963,Presevo,1.0,1.0,0.0,Ragmi Mustafa,18,DPA,18.0,DPA,7-May-2012
+225,70963,Presevo,1.0,1.0,,Ragmi Mustafa,18,DPA,,,22-May-2008
+226,70971,Priboj,1.0,1.0,0.0,Lazar Rvovic,1,SNS,,,2-Jul-2012
+227,70971,Priboj,0.0,1.0,1.0,Lazar Rvovic,1,SNS,17.0,SRS,21-Oct-2008
+228,70971,Priboj,1.0,0.0,0.0,Lazar Rvovic,17,SRS,,,22-Jul-2008
+229,70980,Prijepolje,0.0,0.0,1.0,Emir Hasimbegovic,27,SDzP,1.0,SNS,7-Jan-2012
+230,70980,Prijepolje,1.0,0.0,1.0,Dragoljub Zindovic,1,SNS,2.0,DS,4-Apr-2010
+231,70998,Prokuplje,1.0,0.0,0.0,Miroljub Paunovic,3,SPS,,,30-May-2014
+232,70988,Prokuplje,1.0,0.0,1.0,Ljubisa Djurkovic,3,SPS,,,18-Sep-2012
+233,70988,Prokuplje,1.0,0.0,0.0,Boban Lepojevic,2,DS,,,25-May-2012
+234,70988,Prokuplje,1.0,,,Milan Arsovic,2,DS,,,28-May-2008
+235,71005,Razanj,1.0,1.0,0.0,Dobrica Stanojevic,15,NS,15.0,NS,15-May-2012
+236,71005,Razanj,1.0,1.0,0.0,Dobrica Stanojevic,15,NS,15.0,NS,20-Jun-2008
+237,71013,Raca,1.0,0.0,1.0,Dragan Stevanovic,1,SNS,4.0,URS,23-Aug-2015
+238,71013,Raca,1.0,1.0,0.0,Dragana Zivanovic,4,URS,15.0,NS,8-Dec-2012
+239,71013,Raca,1.0,,,Dragana Zivanovic,15,NS,,,3-Jul-2008
+240,71021,Raska,0.0,0.0,1.0,Ignjat Rakitic,1,SNS,3.0,SPS,12-Jun-2014
+241,71021,Raska,1.0,0.0,0.0,Jovan Corbic,3,SPS,3.0,SPS,11-Sep-2012
+242,71021,Raska,1.0,1.0,0.0,Dragisa Ilic,3,SPS,3.0,SPS,11-May-2008
+243,71030,Rekovac,1.0,0.0,1.0,Predrag Djordjevic,3,SPS,,,23-May-2012
+244,71030,Rekovac,1.0,,,Dragan Prodanovic,2,DS,,,25-May-2008
+245,71048,Jagodina,1.0,0.0,0.0,Ratko Stevanovic,13,JS,,,28-May-2012
+246,71048,Jagodina,1.0,1.0,0.0,Dragan Markovic ,13,JS,,,1-Jun-2008
+247,71048,Jagodina,1.0,0.0,1.0,Dragan Markovic ,13,JS,,,1-Mar-2004
+248,71064,Svrljig,1.0,0.0,0.0,Jelena Trifunovic,23,USS,23.0,USS,18-Apr-2014
+249,71064,Svrljig,1.0,1.0,0.0,Milija Miletic,23,USS,23.0,USS,28-Jun-2012
+250,71064,Svrljig,1.0,0.0,,Milija Miletic,23,USS,,,10-Jul-2008
+251,71072,Sjenica,1.0,0.0,1.0,Hazbo Mujovic,32,SDA,27.0,SDzP,20-Jun-2012
+252,71072,Sjenica,1.0,,,Muriz Turkovic,27,SDzp,,,16-May-2008
+253,71099,Smederevo,1.0,0.0,1.0,Jasna Avramovic,1,SNS,,,10-Jun-2012
+254,71099,Smederevo,1.0,0.0,1.0,Predrag Umicevic,2,DS,,,4-May-2008
+255,71102,Smederevska Palanka,1.0,0.0,0.0,Radoslav Milojicic,2,DS,2.0,DS,20-May-2012
+256,71102,Smederevska Palanka,1.0,,,Zivko Petrovic,2,DS,2.0,DS,21-May-2008
+257,71129,Sokobanja,1.0,1.0,0.0,Dimitrije Lukic,2,DS,,,8-Jun-2012
+258,71129,Sokobanja,1.0,0.0,,Dimitrije Lukic,2,DS,,,30-Jun-2008
+259,71137,Surdulica,1.0,0.0,0.0,Aleksandra Popovic,3,SPS,3.0,SPS,29-May-2014
+260,71137,Surdulica,1.0,1.0,0.0,Novica Toncev,3,SPS,3.0,SPS,6-Jun-2012
+261,71137,Surdulica,1.0,,,Novica Toncev,3,SPS,,,28-May-2008
+262,71145,Uzice,1.0,0.0,0.0,Tihomir Petkovic,1,SNS,,,15-Aug-2014
+263,71145,Uzice,1.0,0.0,1.0,Sasa Milosevic,1,SNS,,,20-Oct-2012
+264,71145,Uzice,1.0,0.0,1.0,Jovan Markovic,2,DS,,,2-Jun-2008
+265,71153,Topola,1.0,1.0,0.0,Dragan Jovanovic,15,NS,15.0,NS,31-May-2012
+266,71153,Topola,1.0,,,Dragan Jovanovic,15,NS,,,1-Jun-2008
+267,71161,Trgoviste,1.0,0.0,1.0,Nenad Krstic,1,SNS,3.0,SPS,18-Mar-2013
+268,71161,Trgoviste,1.0,0.0,1.0,Radoslav Jordanovic,3,SPS,4.0,URS,10-Jun-2012
+269,71161,Trgoviste,1.0,,,Darko Tomic,4,URS,,,30-May-2008
+270,71170,Trstenik,0.0,1.0,1.0,Miroslav Aleksic,16,NPS,4.0,URS,21-Sep-2014
+271,71170,Trstenik,1.0,0.0,1.0,Miroslav Aleksic,4,URS,2.0,DS,9-Jul-2012
+272,71170,Trstenik,1.0,,,Stevan Djakovic,2,DS,,,3-Jun-2008
+273,71188,Tutin,1.0,1.0,0.0,Semsudin Kucevic,32,SDA,,,20-May-2012
+274,71188,Tutin,1.0,0.0,0.0,Bajro Gegic,32,SDA,,,1-Jun-2008
+275,71196,Cicevac,0.0,1.0,1.0,Zlatan Krkic,19,SDS,2.0,DS,26-Oct-2014
+276,71196,Cicevac,1.0,1.0,0.0,Zlatan Krkic,2,DS,,,12-May-2012
+277,71196,Cicevac,1.0,1.0,0.0,Zlatan Krkic,2,DS,,,2-Jun-2008
+278,71200,Cuprija,1.0,0.0,1.0,Ninoslav Eric,1,SNS,38.0,GGR,22-Mar-2013
+279,71200,Cuprija,1.0,0.0,1.0,Radosav Djordjevic,38,GGR,3.0,SPS,7-Dec-2012
+280,71200,Cuprija,1.0,0.0,1.0,Slobodan Lazic,3,SPS,13.0,JS,7-Jul-2012
+281,71200,Cuprija,1.0,,,Borivoje Kalaba,13,JS,,,4-Jun-2008
+282,71218,Ub,1.0,0.0,1.0,Darko Glisic,1,SNS,,,25-May-2012
+283,71218,Ub,1.0,0.0,1.0,Vladislav Krsmanovic,2,DS,,,25-Jun-2008
+284,71226,Crna Trava,1.0,1.0,0.0,Slavoljub Blagojevic,7,DSS,7.0,DSS,4-Jun-2012
+285,71226,Crna Trava,1.0,1.0,0.0,Slavoljub Blagojevic,7,DSS,7.0,DSS,7-Jul-2008
+286,71234,Cajetina,0.0,1.0,1.0,Milan Stamatovic,21,SNP,7.0,DSS,22-Sep-2014
+287,71234,Cajetina,1.0,1.0,0.0,Milan Stamatovic,7,DSS,7.0,DSS,14-May-2012
+288,71234,Cajetina,1.0,1.0,,Milan Stamatovic,7,DSS,,,1-Jul-2008
+289,71242,Cacak,1.0,0.0,0.0,Vojislav Ilic,15,NS,15.0,NS,22-Jul-2012
+290,71242,Cacak,1.0,,,Velimir Stanojevic,15,NS,,,15-May-2008
+291,71269,Sabac,1.0,0.0,0.0,Nebojsa Zelenovic,43,ZzS,,,16-Jun-2014
+292,71269,Sabac,0.0,1.0,1.0,Milos Milosevic,43,ZzS,2.0,DS,1-Apr-2014
+293,71269,Sabac,1.0,1.0,0.0,Milos Milosevic,2,DS,,,6-Aug-2012
+294,71269,Sabac,1.0,1.0,0.0,Milos Milosevic,2,DS,,,5-Jun-2008
+295,71277,Lapovo,1.0,0.0,1.0,Nebojsa Tasic,1,SNS,34.0,GGZZL,11-Jun-2015
+296,71277,Lapovo,1.0,0.0,1.0,Jasna Jovanovic,34,GGZZL,2.0,DS,21-Jul-2014
+297,71277,Lapovo,1.0,0.0,1.0,Nebojsa Miletic,2,DS,34.0,GGZZL,8-Jun-2012
+298,71277,Lapovo,1.0,1.0,0.0,Dragan Zlatkovic,25,SPO,,,6-Jun-2008
+299,71285,Nis-Niska Banja,0.0,1.0,1.0,Zoran VIdanovic,21,SNP,4.0,URS,1-Dec-2015
+300,71285,Nis-Niska Banja,0.0,1.0,1.0,Zoran VIdanovic,4,URS,7.0,DSS,16-Nov-2012
+301,71285,Nis-Niska Banja,1.0,1.0,0.0,Zoran VIdanovic,7,DSS,7.0,DSS,6-Jun-2012
+302,71285,Nis-Niska Banja,1.0,,,Zoran VIdanovic,7,DSS,,,4-Jun-2008
+305,71315,Nis-Crveni Krst,1.0,0.0,0.0,Miroslav Milutinovic,1,SNS,1.0,SNS,14-May-2014
+306,71315,Nis-Crveni Krst,1.0,0.0,0.0,Darko Bulatovic,1,SNS,17.0,SRS,17-Jul-2012
+307,71315,Nis-Crveni Krst,1.0,,,Lelica Kostic,17,SRS,,,6-Jun-2008
+309,71331,Nis-Mediana,1.0,0.0,1.0,Zoran Stojanovic,1,SNS,4.0,URS,4-Aug-2014
+310,71331,Nis-Mediana,1.0,0.0,1.0,Nebojsa Krstic,4,URS,2.0,DS,1-May-2012
+311,71331,Nis-Mediana,1.0,1.0,0.0,Dragoslav Crikovic,2,DS,2.0,DS,23-Apr-2008
+312,71340,Kostolac,1.0,0.0,0.0,Ivan Savic,1,SNS,1.0,SNS,1-Nov-2014
+313,71340,Kostolac,1.0,0.0,1.0,Borka Sutovic,1,SNS,3.0,SPS,4-Jun-2012
+314,71340,Kostolac,1.0,0.0,1.0,Vladimir Vila,3,SPS,2.0,DS,4-Apr-2008
+316,79014,Grad Beograd,1.0,0.0,1.0,Sinisa Mali,1,SNS,2.0,DS,24-Apr-2015
+317,79014,Grad Beograd,1.0,1.0,0.0,Dragan Djilas,2,DS,2.0,DS,11-Jun-2012
+318,79014,Grad Beograd,1.0,0.0,0.0,Dragan Djilas,2,DS,2.0,DS,23-Apr-2008
+319,79022,Grad Nis,1.0,0.0,1.0,Zoran Perisic,1,SNS,2.0,DS,1-Jul-2012
+320,79022,Grad Nis,1.0,,,Milos Simonovic,2,DS,,,2-Jun-2008
+321,79057,Grad Vranje,1.0,0.0,0.0,Zoran Antic,3,SPS,3.0,SPS,5-Jul-2012
+322,79057,Grad Vranje,1.0,1.0,0.0,Miroljub Stojcic,3,SPS,3.0,SPS,14-Mar-2008
+323,80012,Ada,1.0,1.0,0.0,Zoltan Bilicki,2,DS,,,6-Jun-2012
+324,80012,Ada,1.0,0.0,1.0,Zoltan Bilicki,2,DS,,,29-May-2008
+325,80039,Alibunar,1.0,0.0,1.0,Predrag Belic,1,SNS,2.0,DS,19-Jun-2015
+326,80039,Alibunar,1.0,1.0,0.0,Dusan Jovanovic,2,DS,2.0,DS,4-Jun-2012
+327,80039,Alibunar,1.0,,0.0,Dusan Jovanovic,2,DS,,,10-Oct-2011
+328,80047,Apatin,1.0,1.0,0.0,Zivorad Smiljanic,3,SPS,3.0,SPS,1-Jun-2012
+329,80047,Apatin,1.0,1.0,0.0,Zivorad Smiljanic,3,SPS,3.0,SPS,25-May-2008
+330,80055,Bac,1.0,0.0,1.0,Dragan Stasevic,1,SNS,,,27-Apr-2014
+331,80055,Bac,1.0,0.0,1.0,Ognjen Markovic,2,DS,,,22-Dec-2012
+332,80055,Bac,1.0,0.0,1.0,Mirko Pusara,1,SNS,,,18-Jun-2012
+333,80055,Bac,1.0,,,Tomislav Bogunovic,2,DS,,,6-Jun-2008
+334,80063,Backa Palanka,1.0,0.0,1.0,Aleksandar Djedovac,1,SNS,1.0,SNS,29-Mar-2013
+335,80063,Backa Palanka,1.0,0.0,1.0,Bojan Radman,3,SPS,17.0,SRS,3-Jul-2012
+336,80063,Backa Palanka,1.0,,,Dragan Bozalo,17,SRS,,,5-Jun-2008
+337,80071,Backa Topola,1.0,0.0,0.0,Gabor Kislinder,6,SVM,6.0,SVM,12-Dec-2014
+338,80071,Backa Topola,1.0,0.0,0.0,Melinda Kokai Menjak,6,SVM,6.0,SVM,5-May-2012
+339,80071,Backa Topola,1.0,,,Atila Babi ,6,SVM,,,15-May-2008
+340,80080,Backi Petrovac,1.0,0.0,0.0,Pavel Marcok,2,DS,2.0,DS,10-May-2012
+341,80080,Backi Petrovac,1.0,,,Vladimir Turan,2,DS,,,1-May-2008
+342,80098,Bela Crkva,1.0,0.0,1.0,Darko Bogosavljevic,1,SNS,,,15-Jan-2016
+343,80098,Bela Crkva,1.0,0.0,0.0,Stanko Petrovic,2,DS,,,10-Jul-2012
+344,80098,Bela Crkva,1.0,,,Zeljko Crnogorac,2,DS,,,1-Jun-2008
+345,80101,Beocin,1.0,0.0,1.0,Milan Sodic,1,SNS,,,23-Dec-2014
+346,80101,Beocin,1.0,1.0,0.0,Bogdan Cvejic,2,DS,,,29-Dec-2012
+347,80101,Beocin,1.0,0.0,0.0,Bogdan Cvejic,2,DS,,,1-Dec-2008
+348,80110,Becej,1.0,0.0,1.0,Vuk Radojevic,1,SNS,6.0,SVM,26-Dec-2012
+349,80110,Becej,1.0,,,Peter Knezi,6,SVM,,,8-Jun-2008
+350,80128,Vrsac,0.0,1.0,1.0,Cedomir Zivkovic,1,SNS,45.0,VR,19-Nov-2015
+351,80128,Vrsac,1.0,1.0,1.0,Cedomir Zivkovic,45,VS,2.0,DS,10-Dec-2012
+352,80128,Vrsac,1.0,0.0,0.0,Cedomir Zivkovic,2,DS,,,1-Sep-2008
+353,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,36,GGCB,2.0,DS,4-Feb-2016
+354,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,2,DS,19.0,SDS,7-Feb-2015
+355,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,19,SDS,2.0,DS,15-Mar-2014
+356,80136,zabalj,1.0,0.0,0.0,Cedomir Bozic,2,DS,2.0,DS,10-Jun-2012
+357,80136,zabalj,1.0,0.0,1.0,Branko Stajic,2,DS,,,1-Jun-2008
+358,80144,zitiste,1.0,0.0,1.0,Mitar Vucurevic,1,SNS,2.0,DS,7-Aug-2013
+359,80144,zitiste,1.0,0.0,1.0,Ljubinko Petrovic,2,DS,3.0,SPS,25-Jun-2013
+360,80144,zitiste,1.0,0.0,1.0,Dusan Milicev,3,SPS,2.0,DS,10-Jul-2012
+361,80144,zitiste,1.0,0.0,,Dragan Milenkovic,2,DS,,,2-Aug-2008
+362,80152,Zrenjanin,1.0,0.0,1.0,Eleonora Marjanovic,3,SPS,1.0,SNS,30-Jan-2015
+363,80152,Zrenjanin,1.0,0.0,0.0,Cedomir Janjic,1,SNS,1.0,SNS,12-Jul-2014
+364,80152,Zrenjanin,1.0,0.0,0.0,Ivan Bosnjak,1,SNS,1.0,SNS,21-Aug-2012
+365,80152,Zrenjanin,1.0,0.0,1.0,Goran Knezevic,1,SNS,2.0,DS,6-Jul-2012
+366,80152,Zrenjanin,1.0,0.0,,Mileta Mihajlov,2,DS,,,1-Apr-2009
+367,80179,Indjija,1.0,0.0,0.0,Petar Filipovic,2,DS,2.0,DS,23-Aug-2012
+368,80179,Indjija,1.0,1.0,0.0,Goran Jesic,2,DS,2.0,DS,25-May-2008
+369,80187,Irig,1.0,0.0,1.0,Stevan Kazimirovic,1,SNS,,,10-Feb-2015
+370,80187,Irig,1.0,1.0,0.0,Vladimir Petrovic,2,DS,,,12-Jun-2012
+371,80187,Irig,1.0,,,Vladimir Petrovic,2,DS,,,1-Jun-2008
+372,80195,Kanjiza,1.0,0.0,0.0,Mihalj Bimbo,6,SVM,6.0,SVM,10-Jul-2014
+373,80195,Kanjiza,1.0,1.0,0.0,Mihalj Njilas,6,SVM,6.0,SVM,15-May-2012
+374,80195,Kanjiza,1.0,,,Mihalj Njilas,6,SVM,,,7-Jun-2008
+375,80209,Kikinda,1.0,0.0,1.0,Pavle Markov,1,SNS,2.0,DS,13-Sep-2013
+376,80209,Kikinda,1.0,0.0,0.0,Savo Dobranic,2,DS,2.0,DS,16-Jul-2012
+377,80209,Kikinda,1.0,,,Ilija Vojinovic,2,DS,,,10-Jun-2008
+378,80217,Kovacica,1.0,0.0,1.0,Jan Husarik,1,SNS,2.0,DS,29-Oct-2015
+379,80217,Kovacica,1.0,1.0,0.0,Miroslav Krisan,2,DS,2.0,DS,1-Jun-2012
+380,80217,Kovacica,1.0,,,Miroslav Krisan,2,DS,,,9-Jun-2008
+381,80225,Kovin,1.0,0.0,1.0,Sanja Petrovic,1,SNS,3.0,SPS,18-Sep-2015
+382,80225,Kovin,1.0,0.0,1.0,Zoran Nikolic,3,SPS,1.0,SNS,23-Jun-2015
+383,80225,Kovin,1.0,0.0,0.0,Sanja Petrovic,1,SNS,1.0,SNS,19-Feb-2015
+384,80225,Kovin,1.0,0.0,0.0,Dusan Petrovic,1,SNS,1.0,SNS,12-Jun-2014
+385,80225,Kovin,1.0,0.0,1.0,Gordana Zoric,1,SNS,2.0,DS,15-May-2013
+386,80225,Kovin,1.0,0.0,1.0,Slavko Brankovic,2,DS,17.0,SRS,7-May-2009
+387,80233,Kula,1.0,0.0,1.0,Dragan Trifunovic,1,SNS,2.0,DS,8-Oct-2012
+388,80233,Kula,1.0,0.0,0.0,Lazar Greber,2,DS,2.0,DS,6-Jun-2012
+389,80233,Kula,1.0,,,Svetozar Bukvic,2,DS,,,14-May-2008
+390,80241,Mali Idjos,1.0,0.0,1.0,Marko Rovcanin,3,SPS,,,29-Jun-2013
+391,80241,Mali Idjos,1.0,0.0,1.0,Erzebet Celuska-Frindik,2,DS,,,15-May-2012
+392,80241,Mali Idjos,1.0,,,Robert Core,6,SVM,,,1-Jul-2008
+393,80250,Nova Crnja,1.0,0.0,1.0,Petar Milankov,24,N,,,24-Mar-2004
+394,80250,Nova Crnja,1.0,0.0,1.0,Danica Stricevic,1,SNS,,,13-Jan-2014
+395,80250,Nova Crnja,1.0,0.0,1.0,Petar Milankov,24,N,,,28-Dec-2013
+396,80250,Nova Crnja,1.0,0.0,1.0,Danica Stricevic,1,SNS,,,31-May-2013
+397,80250,Nova Crnja,1.0,0.0,1.0,Mile Todorov,3,SPS,,,20-Nov-2012
+398,80250,Nova Crnja,1.0,1.0,0.0,Petar Milankov,2,DS,,,25-May-2012
+399,80250,Nova Crnja,1.0,,,Petar Milankov,24,N,,,1-Jun-2008
+400,80268,Novi Becej,1.0,0.0,1.0,Sasa Sucurovic,20,LDP,,,6-Jul-2012
+401,80268,Novi Becej,1.0,0.0,0.0,Milivoje Verbalov,2,DS,,,11-Jul-2008
+402,80276,Novi Knezevac,0.0,1.0,1.0,Dragan Babic,19,SDS,2.0,DS,15-Apr-2014
+403,80276,Novi Knezevac,1.0,1.0,0.0,Dragan Babic,2,DS,,,10-May-2012
+404,80276,Novi Knezevac,1.0,,,Dragan Babic,2,DS,,,6-Jun-2008
+405,80284,Novi Sad - grad ,1.0,0.0,1.0,Milos Vucevic,1,SNS,2.0,DS,15-Sep-2012
+406,80284,Novi Sad - grad ,1.0,1.0,0.0,Igor Pavlicic,2,DS,2.0,DS,20-Jun-2012
+407,80284,Novi Sad - grad ,1.0,0.0,1.0,Igor Pavlicic,2,DS,17.0,SRS,16-Jul-2008
+408,80292,Opovo,1.0,0.0,1.0,Milos Markov,1,SNS,39.0,GGMS,25-Sep-2015
+409,80292,Opovo,1.0,1.0,0.0,Milorad Soldatovic,39,GGMS,39.0,GGMS,5-May-2012
+410,80292,Opovo,1.0,1.0,1.0,Milorad Soldatovic,39,GGMS,12.0,PSS,10-Jun-2008
+411,80306,Odzaci,1.0,0.0,1.0,Dusan Marijan,1,SNS,2.0,DS,20-May-2012
+412,80306,Odzaci,1.0,,,Predrag Cvetanovic,2,DS,,,29-Mar-2010
+413,80314,Pancevo,1.0,0.0,0.0,Sasa Pavlov,1,SNS,1.0,SNS,19-Jun-2015
+414,80314,Pancevo,1.0,0.0,1.0,Pavle Radanov,1,SNS,3.0,SPS,20-Jun-2013
+415,80314,Pancevo,1.0,0.0,1.0,Svetozar Gavrilovic,3,SPS,2.0,DS,7-Jul-2012
+416,80314,Pancevo,1.0,,,Vesna Martinovic,2,DS,,,8-Jul-2008
+417,80322,Pecinci,1.0,0.0,0.0,Dubravka Kovacevic Suboticki,1,SNS,,,24-Apr-2014
+418,80322,Pecinci,1.0,0.0,1.0,Sava Cojic,1,SNS,,,1-Aug-2012
+419,80322,Pecinci,1.0,0.0,0.0,Sinisa Vukov,2,DS,,,16-Jul-2008
+420,80349,Plandiste,0.0,1.0,1.0,Milan Selakovic,1,SNS,2.0,DS,27-Feb-2014
+421,80349,Plandiste,1.0,0.0,1.0,Milan Selakovic,2,DS,,,23-Jun-2012
+422,80349,Plandiste,1.0,,,Zoran Vorkapic,50,GGZV,,,25-Jun-2008
+423,80357,Ruma,0.0,0.0,0.0,Sladjan Mancic,1,SNS,,,13-Sep-2014
+424,80357,Ruma,1.0,0.0,1.0,Dragan Panic,1,SNS,,,10-Dec-2013
+425,80357,Ruma,1.0,0.0,1.0,Goran Vukovic,2,DS,,,19-Sep-2009
+426,80365,Senta,1.0,0.0,1.0,Cegledi Rudolf,6,SVM,2.0,DS,14-Jul-2012
+427,80365,Senta,1.0,,,Aniko Sirkova,2,DS,,,10-Oct-2010
+428,80373,Secanj,0.0,1.0,1.0,Predrag Milosevic,1,SNS,2.0,DS,22-Jan-2014
+429,80373,Secanj,1.0,1.0,0.0,Predrag Milosevic,2,DS,33.0,GGZROS,6-Jun-2012
+430,80373,Secanj,1.0,1.0,,Predrag Milosevic,33,GGZROS,,,10-Jun-2008
+431,80381,Sombor,1.0,0.0,1.0,Sasa Todorovic,1,SNS,2.0,DS,22-May-2014
+432,80381,Sombor,1.0,1.0,0.0,Nemanja Delic,2,DS,2.0,DS,21-Jun-2012
+433,80381,Sombor,1.0,0.0,0.0,Nemanja Delic,2,DS,2.0,DS,17-Nov-2009
+434,80390,Srbobran,1.0,1.0,0.0,Zoran Mladenovic,3,SPS,,,21-Jun-2013
+435,80390,Srbobran,1.0,0.0,1.0,Zoran Mladenovic,3,SPS,,,10-Jul-2012
+436,80390,Srbobran,1.0,1.0,0.0,Branko Gajin,2,DS,,,1-Jul-2008
+437,80403,Sremska Mitrovica,0.0,1.0,1.0,Branislav Nedimovic,1,SNS,28.0,GGVM,16-Jan-2015
+438,80403,Sremska Mitrovica,1.0,1.0,0.0,Branislav Nedimovic,28,GGVM,28.0,GGVM,2-Jun-2012
+439,80403,Sremska Mitrovica,1.0,0.0,0.0,Branislav Nedimovic,7,DSS,7.0,DSS,30-Jun-2008
+440,80411,Sremski Karlovci,1.0,1.0,0.0,Milenko Filipovic,2,DS,2.0,DS,22-May-2012
+441,80411,Sremski Karlovci,1.0,1.0,0.0,Milenko Filipovic,2,DS,,,10-Jul-2008
+442,80420,Stara Pazova,1.0,0.0,1.0,Djordje Radinovic,1,SNS,2.0,DS,4-Jul-2012
+443,80420,Stara Pazova,1.0,0.0,,Goran Jovic,2,DS,,,1-May-2008
+444,80438,Subotica,0.0,1.0,1.0,Jene Maglai,14,MP,6.0,SVM,24-Aug-2015
+445,80438,Subotica,1.0,0.0,1.0,Jene Maglai,6,SVM,2.0,DS,21-Nov-2013
+446,80438,Subotica,1.0,0.0,0.0,Modest Dulic,2,DS,2.0,DS,1-Jul-2012
+447,80438,Subotica,1.0,,,Sasa Vucinic,2,DS,,,28-May-2008
+448,80446,Temerin,1.0,0.0,1.0,Djuro Ziga,1,SNS,6.0,SVM,11-Oct-2014
+449,80446,Temerin,1.0,0.0,0.0,Andras Gustonj,6,SVM,6.0,SVM,1-Dec-2013
+450,80446,Temerin,1.0,0.0,1.0,Vladislav Capik,6,SVM,2.0,DS,23-Jun-2012
+451,80446,Temerin,1.0,0.0,,Andras Gustonj,40,DSVM,,,10-Oct-2010
+452,80454,Titel,1.0,0.0,1.0,Dragan Bozic,1,SNS,,,19-Nov-2014
+453,80454,Titel,1.0,0.0,1.0,Milan Nastasic,2,DS,,,12-Jul-2014
+454,80454,Titel,1.0,0.0,1.0,Dragan Bozic,1,SNS,,,29-Jun-2012
+455,80454,Titel,1.0,1.0,0.0,Milivoj Petrovic,2,DS,,,1-Jun-2008
+456,80462,Vrbas,1.0,0.0,1.0,Bratislav Kazic,1,SNS,,,11-Jul-2013
+457,80462,Vrbas,1.0,0.0,0.0,Milan Stanimirovic,2,DS,2.0,DS,22-Dec-2012
+458,80462,Vrbas,1.0,1.0,0.0,Zeljko Vidovic,2,DS,2.0,DS,16-May-2012
+459,80462,Vrbas,1.0,,,Zeljko Vidovic,2,DS,,,22-May-2008
+460,80489,Coka,1.0,0.0,1.0,Balaz Ferenc,6,SVM,2.0,DS,28-Jun-2012
+461,80489,Coka,1.0,0.0,0.0,Emilj Poljak,2,DS,2.0,DS,10-May-2008
+462,80497,Sid,1.0,0.0,1.0,Nikola Vasic,1,SNS,2.0,DS,29-Aug-2012
+463,80497,Sid,1.0,,,Natasa Cvjetkovic,2,DS,,,11-Mar-2009

@@ -1,0 +1,22 @@
+document.write('<meta charset=\"UTF-8\">\n<meta http-equiv=\"Content-type\" content=\"text/html;charset=UTF-8\"/>\n');
+<!--
+//*** main urls
+var click_url = "http://www.vipmobile.rs/privatni/internet/postpaid-internet/vip-online-tarife-i-dodaci.4460.html%3Futm_source%3Dnaslovi%26utm_medium%3Dbanner%26utm_campaign%3DVip_MBB";
+var frame_src = "http://static.httpool.com/rs/revenue/2016/yu_VIP/mart_MBB/HTTPOOL_UTGG_2/300x600_htt_v3/300x600_htt_v3/index.html";
+
+//*** optional
+var click_param = "clickthru";
+var ht_width="300";
+var ht_height="600";
+var visual_mode = "opaque";
+var html_id = "html5ad";
+var css_add = "";
+
+//*** do not change the rest
+var swf_click = "http://ad.httpool.com/event.ng/Type=click&FlightID=54174&AdID=71917&TargetID=9426&ASeg=&AMod=&AOpt=0&Segments=525,1042,2402,4667,5479,8576,10003,11768,11769&Targets=5109,9426&Values=25,51,60,77,83,93,100,110,150,152,196,206,421,447,3591,3647,3649,4801,4803,4811,4812,4813,4814,4816,4847,4848,4849,5060,5066,5071,6363,6479,6653,6655,7035,7421,7422,7423,7452,7482,7483,7664,7757,7827,7851,7863,7867,7998,8005,8009,8014,8039,8123,8144,8190,8199,8274,8301,8509,8519,8579,8669,8778,8780,8784,8786,8799,8883,9156,9288,9536,9588,9637,9664,10194,10195,10215,10217,10231,10352,10528,10530,10550,10922,11171&RawValues=USERID%2Cc0a81c3e-12268-1412868904-2&Redirect="+click_url;
+var dcswf_click = escape(swf_click);
+
+document.write('<iframe width="'+ht_width+'" height="'+ht_height+'" frameborder="0" style="position:relative;width:'+ht_width+'px;height:'+ht_height+'px;overflow:hidden;'+css_add+'"');
+document.write(' src="'+frame_src+'?clickparam='+click_param+'&clickURL='+dcswf_click+'"></iframe>');
+//-->
+document.write('<NOSCRIPT>\n<A HREF=\"http://ad.httpool.com/event.ng/Type=click&FlightID=54174&AdID=71917&TargetID=9426&ASeg=&AMod=&AOpt=0&Segments=525,1042,2402,4667,5479,8576,10003,11768,11769&Targets=5109,9426&Values=25,51,60,77,83,93,100,110,150,152,196,206,421,447,3591,3647,3649,4801,4803,4811,4812,4813,4814,4816,4847,4848,4849,5060,5066,5071,6363,6479,6653,6655,7035,7421,7422,7423,7452,7482,7483,7664,7757,7827,7851,7863,7867,7998,8005,8009,8014,8039,8123,8144,8190,8199,8274,8301,8509,8519,8579,8669,8778,8780,8784,8786,8799,8883,9156,9288,9536,9588,9637,9664,10194,10195,10215,10217,10231,10352,10528,10530,10550,10922,11171&RawValues=USERID%2Cc0a81c3e-12268-1412868904-2&Redirect=http://www.vipmobile.rs/privatni/internet/postpaid-internet/vip-online-tarife-i-dodaci.4460.html%3Futm_source%3Dnaslovi%26utm_medium%3Dbanner%26utm_campaign%3DVip_MBB\" target=\"_blank\"><IMG SRC=\"http://static.httpool.com/rs/revenue/2016/yu_VIP/mart_MBB/HTTPOOL_UTGG_2/300x600_htt_v3/300x600_htt_v3/index.html\" WIDTH=300 HEIGHT=250 BORDER=0></A>\n</NOSCRIPT>');

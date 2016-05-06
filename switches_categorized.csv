@@ -1,0 +1,33 @@
+,Unnamed: 0,mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,prior_party_id,prior_party_name,date,switches_categorized
+0,0,70017,Aleksandrovac,0.0,1.0,1.0,Jugoslav Stajkovac,46,GGZBZ,4.0,URS,2014-06-02,URS Independent to Independent
+1,1,70017,Aleksandrovac,1.0,1.0,1.0,Jugoslav Stajkovac,4,URS,47.0,GGPZZ,2013-08-24,Independent to Incumbent
+21,21,70084,Bela Palanka,0.0,1.0,1.0,Goran Miljkovic,19,SDS,2.0,DS,2014-02-09,DS-SDS Split
+41,53,70319,Boljevac,0.0,1.0,1.0,Nebojsa Marjanovic,1,SNS,4.0,URS,2014-07-01,URS Independent to SNS
+65,77,70394,Veliko Gradiste,0.0,1.0,1.0,Dragan Milic,1,SNS,44.0,GGDM,2016-03-07,Independent to SNS
+97,109,70513,Doljevac,0.0,1.0,1.0,Goran Ljubic,1,SNS,26.0,PZJ,2016-02-13,Independent to SNS
+120,132,70688,Kursumlija,1.0,1.0,1.0,Radoljub Vidic,1,SNS,7.0,DSS,2012-07-17,Opposition to SNS
+122,134,70602,Knjazevac,0.0,1.0,1.0,Milan Djokic,-1,Nejasna,4.0,URS,2014-06-02,URS Independent to Independent
+128,140,70637,Koceljeva,0.0,1.0,1.0,Veroljub Matic,1,SNS,8.0,GGVM,2013-06-24,Independent to SNS
+134,146,70653,Kraljevo,0.0,1.0,1.0,Tomislav Ilic,1,SNS,15.0,NS,2016-01-05,Incumbent to SNS
+147,159,70700,Lajkovac,0.0,1.0,1.0,Zivorad Bojicic,11,PS,3.0,SPS,2015-10-05,Incumbent to Incumbent
+156,168,71056,Svilajnac,0.0,1.0,1.0,Predrag Milanovic,19,SDS,2.0,DS,2014-07-18,DS-SDS Split
+159,171,70734,Loznica,1.0,1.0,1.0,Vidoje Petrovic,1,SNS,29.0,PzLP,2015-06-08,Independent to SNS
+160,172,70734,Loznica,1.0,1.0,1.0,Vidoje Petrovic,29,PzLP,4.0,URS,2014-05-29,URS Independent to Independent
+198,210,70882,Osecina,0.0,1.0,1.0,Nenad Stevanovic,1,SNS,4.0,URS,2015-08-18,URS Independent to SNS
+199,211,70882,Osecina,1.0,1.0,1.0,Nenad Stevanovic,4,URS,37.0,G17+,2012-05-29,G17+ to URS
+258,270,71170,Trstenik,0.0,1.0,1.0,Miroslav Aleksic,16,NPS,4.0,URS,2014-09-21,URS Independent to Independent
+263,275,71196,Cicevac,0.0,1.0,1.0,Zlatan Krkic,19,SDS,2.0,DS,2014-10-26,DS-SDS Split
+274,286,71234,Cajetina,0.0,1.0,1.0,Milan Stamatovic,21,SNP,7.0,DSS,2014-09-22,Independent to Independent
+280,292,71269,Sabac,0.0,1.0,1.0,Milos Milosevic,43,ZzS,2.0,DS,2014-04-01,DS to Independent
+287,299,71285,Nis-Niska Banja,0.0,1.0,1.0,Zoran VIdanovic,21,SNP,4.0,URS,2015-12-01,URS Independent to Independent
+288,300,71285,Nis-Niska Banja,0.0,1.0,1.0,Zoran VIdanovic,4,URS,7.0,DSS,2012-11-16,Opposition to Incumbent
+334,350,80128,Vrsac,0.0,1.0,1.0,Cedomir Zivkovic,1,SNS,45.0,VR,2015-11-19,Independent to SNS
+335,351,80128,Vrsac,1.0,1.0,1.0,Cedomir Zivkovic,45,VS,2.0,DS,2012-12-10,DS to Independent
+337,353,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,36,GGCB,2.0,DS,2016-02-04,DS to Independent
+338,354,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,2,DS,19.0,SDS,2015-02-07,DS-SDS Split
+339,355,80136,zabalj,0.0,1.0,1.0,Cedomir Bozic,19,SDS,2.0,DS,2014-03-15,DS-SDS Split
+386,402,80276,Novi Knezevac,0.0,1.0,1.0,Dragan Babic,19,SDS,2.0,DS,2014-04-15,DS-SDS Split
+404,420,80349,Plandiste,0.0,1.0,1.0,Milan Selakovic,1,SNS,2.0,DS,2014-02-27,Opposition to SNS
+412,428,80373,Secanj,0.0,1.0,1.0,Predrag Milosevic,1,SNS,2.0,DS,2014-01-22,Opposition to SNS
+421,437,80403,Sremska Mitrovica,0.0,1.0,1.0,Branislav Nedimovic,1,SNS,28.0,GGVM,2015-01-16,Independent to SNS
+428,444,80438,Subotica,0.0,1.0,1.0,Jene Maglai,14,MP,6.0,SVM,2015-08-24,Independent to Independent

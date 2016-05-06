@@ -1,8 +1,8 @@
 ,,"Novo Postavljanje Predsednika Opstine? (neovisno od toga da li je nova osoba, cisto da li se glasalo",Isti predsednik kao pre?,Promena Partije iz Koje je Predsednik? Neovisno od promene samog predsednika,Ime Novog Predsednika,MB Partije,Ime Partije Novog Predsednika,MB Prethodne Partijske Pripadnosti Predsednika,Ime Prethodne Partijske Pripadnosti Predsednika ,Datum Dogadjaja
-,,"0 - ne, 1 - da",,"0 - ne, 1 - da",bez latinicnih/ cirilicnih slova,vidite sifarnik,,,,Dan/Mesec/Godina
+,,"0 - ne, 1 - da","0 - ne, 1 - da","0 - ne, 1 - da",bez latinicnih/ cirilicnih slova,vidite sifarnik,,,,Dan/Mesec/Godina
 mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,prior_party_id,prior_party_name,date
-70017,Aleksandrovac,0,1,1,Jugoslav Stajkovac,46,GGZBZ,,,2-Jun-2014
-70017,Aleksandrovac,1,1,1,Jugoslav Stajkovac,4,URS,,,24-Aug-2013
+70017,Aleksandrovac,0,1,1,Jugoslav Stajkovac,46,GGZBZ,4,URS,2-Jun-2014
+70017,Aleksandrovac,1,1,1,Jugoslav Stajkovac,4,URS,47,GGPZZ,24-Aug-2013
 70017,Aleksandrovac,1,1,0,Dragan Blagojevic,1,SNS,,,20-Mar-2013
 70017,Aleksandrovac,1,0,1,Dragan Blagojevic,1,SNS,,,17-Sep-2012
 70017,Aleksandrovac,1,0,1,Jugoslav Stajkovac,47,GGPZZ,,,5-Sep-2012
@@ -22,7 +22,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70068,Bajina Basta,1,0,0,Zlatan Jovanovic,17,SRS,17,SRS,6-Jun-2011
 70076,Batocina,1,1,0,Radisa Milosevic,2,DS,,,1-Aug-2012
 70076,Batocina,1,1,0,Radisa MIlosevic,2,DS,,,28-May-2008
-70084,Bela Palanka,0,1,1,Goran Miljkovic,19,SDS,,,9-Feb-2014
+70084,Bela Palanka,0,1,1,Goran Miljkovic,19,SDS,2,DS,9-Feb-2014
 70084,Bela Palanka,1,0,1,Goran Miljkovic,2,DS,,,6-Jun-2012
 70084,Bela Palanka,1,0,,Aleksandar Zivkovic,3,SPS,,,5-Jul-2008
 70092,Beograd-Barajevo,,,,,,,,,
@@ -54,9 +54,9 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70289,Bogatic,1,,,Slobodan Savic,2,DS,,,1-Jul-2008
 70297,Bojnik,1,0,1,Ivan Stanojevic,1,SNS,2,DS,5-Jun-2012
 70297,Bojnik,1,0,1,Nebojsa Nenadovic,2,DS,17,SRS,20-Dec-2008
-70319,Boljevac,0,1,1,Nebojsa Marjanovic,1,SNS,,,1-Jul-2014
+70319,Boljevac,0,1,1,Nebojsa Marjanovic,1,SNS,4,URS,1-Jul-2014
 70319,Boljevac,1,1,0,Nebojsa Marjanovic,4,URS,,,6-May-2012
-70319,Boljevac,0,1,1,Nebojsa Marjanovic,4,URS,,,7-Dec-2010
+70319,Boljevac,0,1,0,Nebojsa Marjanovic,4,URS,,,7-Dec-2010
 70327,Bor,1,0,0,Zivorad Petrovic,1,SNS,,,10-Apr-2014
 70327,Bor,1,0,1,Sasa Vukadinovic,1,SNS,,,5-Jun-2013
 70327,Bor,1,1,0,Nebojsa VIdenovic,4,URS,,,18-May-2012
@@ -78,7 +78,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70386,Velika Plana,1,0,1,Igor Matkovic,1,SNS,,,22-Aug-2015
 70386,Velika Plana,1,1,0,Dejan Sulkic,7,DSS,,,15-May-2012
 70386,Velika Plana,1,1,0,Dejan Sulkic,7,DSS,,,1-Jun-2008
-70394,Veliko Gradiste,0,1,1,Dragan Milic,1,SNS,,,7-Mar-2016
+70394,Veliko Gradiste,0,1,1,Dragan Milic,1,SNS,44,GGDM,7-Mar-2016
 70394,Veliko Gradiste,1,1,0,Dragan Milic,44,GGDM,,,23-May-2012
 70394,Veliko Gradiste,1,0,1,Dragan Milic,44,GGDM,,,10-Oct-2010
 70408,Vladimirci,1,0,1,Milinkovic Milorad,1,SNS,,,17-Jun-2015
@@ -124,7 +124,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70548,Zitoradja,1,0,1,Goran Stojkovic,19,SDS,2,DS,1-Jun-2014
 70548,Zitoradja,1,0,1,Miodrag Petrovic,2,DS,3,SPS,9-Mar-2011
 70556,Zajecar,1,0,1,Velimir Ognjanovic,1,SNS,4,URS,5-Aug-2013
-70556,Zajecar,1,1,1,Bosko Nicic,4,URS,4,URS,10-Jul-2012
+70556,Zajecar,1,1,0,Bosko Nicic,4,URS,4,URS,10-Jul-2012
 70556,Zajecar,1,0,1,Bosko Nicic,4,URS,2,DS,1-May-2008
 70564,Ivanjica,1,0,1,Milomir Zoric,9,GGMZ,10,GGZI,27-Jul-2012
 70564,Ivanjica,1,0,0,Radomir Ristic,10,GGZI,10,GGZI,12-May-2009
@@ -142,7 +142,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70629,Kosjeric,1,0,1,Dragan Vujadinovic,2,DS,,,10-Nov-2009
 70637,Koceljeva,1,0,0,Dusan Ilincic,1,SNS,1,SNS,9-Oct-2014
 70637,Koceljeva,0,1,1,Veroljub Matic,1,SNS,8,GGVM,24-Jun-2013
-70637,Koceljeva,1,1,1,Veroljub Matic,8,GGVM,8,GGVM,1-Jun-2012
+70637,Koceljeva,1,1,0,Veroljub Matic,8,GGVM,8,GGVM,1-Jun-2012
 70637,Koceljeva,1,,,Veroljub Matic,8,GGzVM,,,11-May-2008
 70645,Kragujevac - grad,1,0,1,Radomir Nikolic,1,SNS,,,28-Oct-2014
 70645,Kragujevac - grad,1,1,0,Veroljub Stevanovic,4,URS,,,22-May-2012
@@ -174,7 +174,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 71056,Svilajnac,1,,,Gorica Dimcic-Tasic,4,URS,,,25-May-2008
 70734,Loznica,1,1,1,Vidoje Petrovic,1,SNS,29,PzLP,8-Jun-2015
 70734,Loznica,1,1,1,Vidoje Petrovic,29,PzLP,4,URS,29-May-2014
-70734,Loznica,1,1,1,Vidoje Petrovic,4,URS,4,URS,10-May-2012
+70734,Loznica,1,1,0,Vidoje Petrovic,4,URS,4,URS,10-May-2012
 70734,Loznica,1,1,,Vidoje Petrovic,4,URS,,,3-Jul-2008
 70742,Lucani,1,0,1,Vesna Stambolic,1,SNS,,,26-Feb-2015
 70742,Lucani,1,0,1,Mladomir Sretenovic,2,DS,,,20-May-2012
@@ -228,7 +228,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 70963,Presevo,1,1,0,Ragmi Mustafa,18,DPA,18,DPA,7-May-2012
 70963,Presevo,1,1,,Ragmi Mustafa,18,DPA,,,22-May-2008
 70971,Priboj,1,1,0,Lazar Rvovic,1,SNS,,,2-Jul-2012
-70971,Priboj,0,1,1,Lazar Rvovic,1,SNS,,,21-Oct-2008
+70971,Priboj,0,1,1,Lazar Rvovic,1,SNS,17,SRS,21-Oct-2008
 70971,Priboj,1,0,0,Lazar Rvovic,17,SRS,,,22-Jul-2008
 70980,Prijepolje,0,0,1,Emir Hasimbegovic,27,SDzP,1,SNS,7-Jan-2012
 70980,Prijepolje,1,0,1,Dragoljub Zindovic,1,SNS,2,DS,4-Apr-2010
@@ -276,7 +276,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 71170,Trstenik,1,,,Stevan Djakovic,2,DS,,,3-Jun-2008
 71188,Tutin,1,1,0,Semsudin Kucevic,32,SDA,,,20-May-2012
 71188,Tutin,1,0,0,Bajro Gegic,32,SDA,,,1-Jun-2008
-71196,Cicevac,0,1,1,Zlatan Krkic,19,SDS,,,26-Oct-2014
+71196,Cicevac,0,1,1,Zlatan Krkic,19,SDS,2,DS,26-Oct-2014
 71196,Cicevac,1,1,0,Zlatan Krkic,2,DS,,,12-May-2012
 71196,Cicevac,1,1,0,Zlatan Krkic,2,DS,,,2-Jun-2008
 71200,Cuprija,1,0,1,Ninoslav Eric,1,SNS,38,GGR,22-Mar-2013
@@ -293,7 +293,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 71242,Cacak,1,0,0,Vojislav Ilic,15,NS,15,NS,22-Jul-2012
 71242,Cacak,1,,,Velimir Stanojevic,15,NS,,,15-May-2008
 71269,Sabac,1,0,0,Nebojsa Zelenovic,43,ZzS,,,16-Jun-2014
-71269,Sabac,0,1,1,Milos Milosevic,43,ZzS,,,1-Apr-2014
+71269,Sabac,0,1,1,Milos Milosevic,43,ZzS,2,DS,1-Apr-2014
 71269,Sabac,1,1,0,Milos Milosevic,2,DS,,,6-Aug-2012
 71269,Sabac,1,1,0,Milos Milosevic,2,DS,,,5-Jun-2008
 71277,Lapovo,1,0,1,Nebojsa Tasic,1,SNS,34,GGZZL,11-Jun-2015
@@ -351,8 +351,8 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 80101,Beocin,1,0,0,Bogdan Cvejic,2,DS,,,1-Dec-2008
 80110,Becej,1,0,1,Vuk Radojevic,1,SNS,6,SVM,26-Dec-2012
 80110,Becej,1,,,Peter Knezi,6,SVM,,,8-Jun-2008
-80128,Vrsac,0,1,1,Cedomir Zivkovic,1,SNS,,,19-Nov-2015
-80128,Vrsac,1,1,1,Cedomir Zivkovic,45,VS,,,10-Dec-2012
+80128,Vrsac,0,1,1,Cedomir Zivkovic,1,SNS,45,VR,19-Nov-2015
+80128,Vrsac,1,1,1,Cedomir Zivkovic,45,VS,2,DS,10-Dec-2012
 80128,Vrsac,1,0,0,Cedomir Zivkovic,2,DS,,,1-Sep-2008
 80136,zabalj,0,1,1,Cedomir Bozic,36,GGCB,2,DS,4-Feb-2016
 80136,zabalj,0,1,1,Cedomir Bozic,2,DS,19,SDS,7-Feb-2015
@@ -403,7 +403,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 80250,Nova Crnja,1,,,Petar Milankov,24,N,,,1-Jun-2008
 80268,Novi Becej,1,0,1,Sasa Sucurovic,20,LDP,,,6-Jul-2012
 80268,Novi Becej,1,0,0,Milivoje Verbalov,2,DS,,,11-Jul-2008
-80276,Novi Knezevac,0,1,1,Dragan Babic,19,SDS,,,15-Apr-2014
+80276,Novi Knezevac,0,1,1,Dragan Babic,19,SDS,2,DS,15-Apr-2014
 80276,Novi Knezevac,1,1,0,Dragan Babic,2,DS,,,10-May-2012
 80276,Novi Knezevac,1,,,Dragan Babic,2,DS,,,6-Jun-2008
 80284,Novi Sad - grad ,1,0,1,Milos Vucevic,1,SNS,2,DS,15-Sep-2012
@@ -421,7 +421,7 @@ mun_id,mun,appointment,same_person,party_change,pres_name,party_id,party_abr,pri
 80322,Pecinci,1,0,0,Dubravka Kovacevic Suboticki,1,SNS,,,24-Apr-2014
 80322,Pecinci,1,0,1,Sava Cojic,1,SNS,,,1-Aug-2012
 80322,Pecinci,1,0,0,Sinisa Vukov,2,DS,,,16-Jul-2008
-80349,Plandiste,0,1,1,Milan Selakovic,1,SNS,,,27-Feb-2014
+80349,Plandiste,0,1,1,Milan Selakovic,1,SNS,2,DS,27-Feb-2014
 80349,Plandiste,1,0,1,Milan Selakovic,2,DS,,,23-Jun-2012
 80349,Plandiste,1,,,Zoran Vorkapic,50,GGZV,,,25-Jun-2008
 80357,Ruma,0,0,0,Sladjan Mancic,1,SNS,,,13-Sep-2014
